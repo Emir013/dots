@@ -1,0 +1,6 @@
+# Player options
+player=mpv --cache 4048 --ontop --no-border --force-window --autofit=720x480
+# player=mpv --cache 2048
+player-no-close
+
+default-stream=best,1080p,720p,medium

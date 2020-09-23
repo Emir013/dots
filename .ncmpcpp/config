@@ -1,0 +1,48 @@
+##############################################################################
+
+# Display ..
+song_list_format = " $5%t $R$6%a "
+song_columns_list_format = "(3)[]{}(85)[blue]{t} (1)[magenta]{a}"
+song_status_format = "$5%t $1on $2%b $1by $5%a$1"
+playlist_display_mode = "classic" (classic/columns)
+
+# Now Playing ..
+now_playing_prefix = "$3>"
+now_playing_suffix = "$8$/b"
+
+# Playlist ..
+browser_playlist_prefix = "$2 ♥ $0 "
+
+# Delays .. 
+playlist_disable_highlight_delay = "1"
+message_delay_time= "1"
+
+# Progress Bar ..
+progressbar_look = "━━─"
+progressbar_boldness = "yes"
+progressbar_color = "white"
+progressbar_elapsed_color = "magenta"
+
+# Colors ..
+colors_enabled = "yes"
+empty_tag_color = "red"
+statusbar_color = "white"
+state_line_color = "white"
+state_flags_color = "white"
+main_window_color = "white" 
+header_window_color = "white"
+main_window_highlight_color = "blue"
+
+# Misc ..   
+display_bitrate = "no"
+autocenter_mode = "yes"
+centered_cursor = "yes"
+titles_visibility = "no"
+statusbar_visibility = "yes"
+empty_tag_marker=" -- ‼ -- " 
+mouse_support = "yes"
+header_visibility = "no"
+display_remaining_time = "no"
+ask_before_clearing_playlists = "no"
+discard_colors_if_item_is_selected = "yes"
+

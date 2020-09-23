@@ -1,0 +1,1194 @@
+2020-07-29 21:21:40		New key binding (context "default"): meta2-1;5P => /bar scroll buflist * -100%
+2020-07-29 21:21:40		New key binding (context "default"): meta2-1;5Q => /bar scroll buflist * +100%
+2020-07-29 21:21:40		New key binding (context "default"): meta-meta-OQ => /bar scroll buflist * e
+2020-07-29 21:21:40		New key binding (context "default"): meta2-1;3Q => /bar scroll buflist * e
+2020-07-29 21:21:40		New key binding (context "default"): meta2-1;3P => /bar scroll buflist * b
+2020-07-29 21:21:40		New key binding (context "default"): meta-meta-OP => /bar scroll buflist * b
+2020-07-29 21:21:40		New key binding (context "default"): meta-B => /buflist toggle
+2020-07-29 21:21:40		New key binding (context "default"): meta-OQ => /bar scroll buflist * +100%
+2020-07-29 21:21:40		New key binding (context "default"): meta-OP => /bar scroll buflist * -100%
+2020-07-29 21:21:40		New key binding (context "default"): meta-meta2-12~ => /bar scroll buflist * e
+2020-07-29 21:21:40		New key binding (context "default"): meta-meta2-11~ => /bar scroll buflist * b
+2020-07-29 21:21:40		New key binding (context "default"): meta2-12^ => /bar scroll buflist * +100%
+2020-07-29 21:21:40		New key binding (context "default"): meta2-12~ => /bar scroll buflist * +100%
+2020-07-29 21:21:40		New key binding (context "default"): meta2-11^ => /bar scroll buflist * -100%
+2020-07-29 21:21:40		New key binding (context "default"): meta2-11~ => /bar scroll buflist * -100%
+2020-07-29 21:21:41		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, lua, perl, python, relay, script, tcl, trigger, xfer
+2020-07-29 21:22:27	=!=	You can not write text in this buffer
+2020-07-29 21:22:34	=!=	You can not write text in this buffer
+2020-07-29 21:22:34	=!=	You can not write text in this buffer
+2020-07-29 21:22:36	=!=	You can not write text in this buffer
+2020-07-29 21:22:37	=!=	You can not write text in this buffer
+2020-07-29 21:26:08		Options reloaded from sec.conf
+2020-07-29 21:26:08		Bar "input" created
+2020-07-29 21:26:08		Bar "title" created
+2020-07-29 21:26:08		Bar "status" created
+2020-07-29 21:26:08		Bar "nicklist" created
+2020-07-29 21:26:08		Options reloaded from weechat.conf
+2020-07-29 21:26:08		Options reloaded from plugins.conf
+2020-07-29 21:26:08		Options reloaded from charset.conf
+2020-07-29 21:26:08		Options reloaded from logger.conf
+2020-07-29 21:26:08		Options reloaded from exec.conf
+2020-07-29 21:26:08		Options reloaded from trigger.conf
+2020-07-29 21:26:08		Options reloaded from alias.conf
+2020-07-29 21:26:08		Options reloaded from buflist.conf
+2020-07-29 21:26:08		Options reloaded from fifo.conf
+2020-07-29 21:26:08		Options reloaded from xfer.conf
+2020-07-29 21:26:08		Options reloaded from irc.conf
+2020-07-29 21:26:08		Options reloaded from relay.conf
+2020-07-29 21:26:08		Options reloaded from lua.conf
+2020-07-29 21:26:08		Options reloaded from python.conf
+2020-07-29 21:26:08		Options reloaded from guile.conf
+2020-07-29 21:26:08		Options reloaded from perl.conf
+2020-07-29 21:26:08		Options reloaded from tcl.conf
+2020-07-29 21:26:08		Options reloaded from script.conf
+2020-07-29 21:26:08		Options reloaded from fset.conf
+2020-07-29 23:08:46		New key binding (context "default"): meta2-1;5P => /bar scroll buflist * -100%
+2020-07-29 23:08:46		New key binding (context "default"): meta2-1;5Q => /bar scroll buflist * +100%
+2020-07-29 23:08:46		New key binding (context "default"): meta-meta-OQ => /bar scroll buflist * e
+2020-07-29 23:08:46		New key binding (context "default"): meta2-1;3Q => /bar scroll buflist * e
+2020-07-29 23:08:46		New key binding (context "default"): meta2-1;3P => /bar scroll buflist * b
+2020-07-29 23:08:46		New key binding (context "default"): meta-meta-OP => /bar scroll buflist * b
+2020-07-29 23:08:46		New key binding (context "default"): meta-B => /buflist toggle
+2020-07-29 23:08:46		New key binding (context "default"): meta-OQ => /bar scroll buflist * +100%
+2020-07-29 23:08:46		New key binding (context "default"): meta-OP => /bar scroll buflist * -100%
+2020-07-29 23:08:46		New key binding (context "default"): meta-meta2-12~ => /bar scroll buflist * e
+2020-07-29 23:08:46		New key binding (context "default"): meta-meta2-11~ => /bar scroll buflist * b
+2020-07-29 23:08:46		New key binding (context "default"): meta2-12^ => /bar scroll buflist * +100%
+2020-07-29 23:08:46		New key binding (context "default"): meta2-12~ => /bar scroll buflist * +100%
+2020-07-29 23:08:46		New key binding (context "default"): meta2-11^ => /bar scroll buflist * -100%
+2020-07-29 23:08:46		New key binding (context "default"): meta2-11~ => /bar scroll buflist * -100%
+2020-07-29 23:08:46		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, lua, perl, python, relay, script, tcl, trigger, xfer
+2020-07-29 23:08:52	=!=	You can not write text in this buffer
+2020-07-29 23:08:56		Options reloaded from sec.conf
+2020-07-29 23:08:56		Options reloaded from weechat.conf
+2020-07-29 23:08:56		Options reloaded from plugins.conf
+2020-07-29 23:08:56		Options reloaded from charset.conf
+2020-07-29 23:08:56		Options reloaded from logger.conf
+2020-07-29 23:08:56		Options reloaded from exec.conf
+2020-07-29 23:08:56		Options reloaded from trigger.conf
+2020-07-29 23:08:56		Options reloaded from alias.conf
+2020-07-29 23:08:56		Options reloaded from buflist.conf
+2020-07-29 23:08:56		Options reloaded from fifo.conf
+2020-07-29 23:08:56		Options reloaded from xfer.conf
+2020-07-29 23:08:56		Options reloaded from irc.conf
+2020-07-29 23:08:56		Options reloaded from relay.conf
+2020-07-29 23:08:56		Options reloaded from lua.conf
+2020-07-29 23:08:56		Options reloaded from python.conf
+2020-07-29 23:08:56		Options reloaded from guile.conf
+2020-07-29 23:08:56		Options reloaded from perl.conf
+2020-07-29 23:08:56		Options reloaded from tcl.conf
+2020-07-29 23:08:56		Options reloaded from script.conf
+2020-07-29 23:08:56		Options reloaded from fset.conf
+2020-07-29 23:10:30		New key binding (context "default"): meta2-1;5P => /bar scroll buflist * -100%
+2020-07-29 23:10:30		New key binding (context "default"): meta2-1;5Q => /bar scroll buflist * +100%
+2020-07-29 23:10:30		New key binding (context "default"): meta-meta-OQ => /bar scroll buflist * e
+2020-07-29 23:10:30		New key binding (context "default"): meta2-1;3Q => /bar scroll buflist * e
+2020-07-29 23:10:30		New key binding (context "default"): meta2-1;3P => /bar scroll buflist * b
+2020-07-29 23:10:30		New key binding (context "default"): meta-meta-OP => /bar scroll buflist * b
+2020-07-29 23:10:30		New key binding (context "default"): meta-B => /buflist toggle
+2020-07-29 23:10:30		New key binding (context "default"): meta-OQ => /bar scroll buflist * +100%
+2020-07-29 23:10:30		New key binding (context "default"): meta-OP => /bar scroll buflist * -100%
+2020-07-29 23:10:30		New key binding (context "default"): meta-meta2-12~ => /bar scroll buflist * e
+2020-07-29 23:10:30		New key binding (context "default"): meta-meta2-11~ => /bar scroll buflist * b
+2020-07-29 23:10:30		New key binding (context "default"): meta2-12^ => /bar scroll buflist * +100%
+2020-07-29 23:10:30		New key binding (context "default"): meta2-12~ => /bar scroll buflist * +100%
+2020-07-29 23:10:30		New key binding (context "default"): meta2-11^ => /bar scroll buflist * -100%
+2020-07-29 23:10:30		New key binding (context "default"): meta2-11~ => /bar scroll buflist * -100%
+2020-07-29 23:10:30		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, lua, perl, python, relay, script, tcl, trigger, xfer
+2020-07-29 23:10:40	 !!! 	You can not write text in this buffer
+2020-07-29 23:11:30		Options reloaded from sec.conf
+2020-07-29 23:11:30	 !!! 	Warning: /home/wakamiya/.weechat/weechat.conf, line 33: unknown option for section "look": day_change_time_format = "%a, %d %b %Y"
+2020-07-29 23:11:30	 !!! 	Warning: /home/wakamiya/.weechat/weechat.conf, line 38: unknown option for section "look": hotlist_add_buffer_if_away = on
+2020-07-29 23:11:30	 !!! 	Warning: /home/wakamiya/.weechat/weechat.conf, line 59: unknown option for section "look": nickmode = on
+2020-07-29 23:11:30	 !!! 	Warning: /home/wakamiya/.weechat/weechat.conf, line 60: unknown option for section "look": nickmode_empty = off
+2020-07-29 23:11:30	 !!! 	Warning: /home/wakamiya/.weechat/weechat.conf, line 89: unknown option for section "look": set_title = on
+2020-07-29 23:11:30	 !!! 	Warning: /home/wakamiya/.weechat/weechat.conf, line 372: unknown option for section "color": nicklist_offline = blue
+2020-07-29 23:11:30		Options reloaded from weechat.conf
+2020-07-29 23:11:30		Options reloaded from plugins.conf
+2020-07-29 23:11:30		Options reloaded from charset.conf
+2020-07-29 23:11:30		Options reloaded from logger.conf
+2020-07-29 23:11:30		Options reloaded from exec.conf
+2020-07-29 23:11:30		Options reloaded from trigger.conf
+2020-07-29 23:11:30		Options reloaded from alias.conf
+2020-07-29 23:11:30		Options reloaded from buflist.conf
+2020-07-29 23:11:30		Options reloaded from fifo.conf
+2020-07-29 23:11:30		Options reloaded from xfer.conf
+2020-07-29 23:11:30		Options reloaded from irc.conf
+2020-07-29 23:11:30		Options reloaded from relay.conf
+2020-07-29 23:11:30		Options reloaded from lua.conf
+2020-07-29 23:11:30		Options reloaded from python.conf
+2020-07-29 23:11:30		Options reloaded from guile.conf
+2020-07-29 23:11:30		Options reloaded from perl.conf
+2020-07-29 23:11:30		Options reloaded from tcl.conf
+2020-07-29 23:11:30		Options reloaded from script.conf
+2020-07-29 23:11:30		Options reloaded from fset.conf
+2020-07-29 23:11:37		New key binding (context "default"): meta2-1;5P => /bar scroll buflist * -100%
+2020-07-29 23:11:37		New key binding (context "default"): meta2-1;5Q => /bar scroll buflist * +100%
+2020-07-29 23:11:37		New key binding (context "default"): meta-meta-OQ => /bar scroll buflist * e
+2020-07-29 23:11:37		New key binding (context "default"): meta2-1;3Q => /bar scroll buflist * e
+2020-07-29 23:11:37		New key binding (context "default"): meta2-1;3P => /bar scroll buflist * b
+2020-07-29 23:11:37		New key binding (context "default"): meta-meta-OP => /bar scroll buflist * b
+2020-07-29 23:11:37		New key binding (context "default"): meta-B => /buflist toggle
+2020-07-29 23:11:37		New key binding (context "default"): meta-OQ => /bar scroll buflist * +100%
+2020-07-29 23:11:37		New key binding (context "default"): meta-OP => /bar scroll buflist * -100%
+2020-07-29 23:11:37		New key binding (context "default"): meta-meta2-12~ => /bar scroll buflist * e
+2020-07-29 23:11:37		New key binding (context "default"): meta-meta2-11~ => /bar scroll buflist * b
+2020-07-29 23:11:37		New key binding (context "default"): meta2-12^ => /bar scroll buflist * +100%
+2020-07-29 23:11:37		New key binding (context "default"): meta2-12~ => /bar scroll buflist * +100%
+2020-07-29 23:11:37		New key binding (context "default"): meta2-11^ => /bar scroll buflist * -100%
+2020-07-29 23:11:37		New key binding (context "default"): meta2-11~ => /bar scroll buflist * -100%
+2020-07-29 23:11:37		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, lua, perl, python, relay, script, tcl, trigger, xfer
+2020-07-29 23:11:40		Options reloaded from sec.conf
+2020-07-29 23:11:40		Options reloaded from weechat.conf
+2020-07-29 23:11:40		Options reloaded from plugins.conf
+2020-07-29 23:11:40		Options reloaded from charset.conf
+2020-07-29 23:11:40		Options reloaded from logger.conf
+2020-07-29 23:11:40		Options reloaded from exec.conf
+2020-07-29 23:11:40		Options reloaded from trigger.conf
+2020-07-29 23:11:40		Options reloaded from alias.conf
+2020-07-29 23:11:40		Options reloaded from buflist.conf
+2020-07-29 23:11:40		Options reloaded from fifo.conf
+2020-07-29 23:11:40		Options reloaded from xfer.conf
+2020-07-29 23:11:40		Options reloaded from irc.conf
+2020-07-29 23:11:40		Options reloaded from relay.conf
+2020-07-29 23:11:40		Options reloaded from lua.conf
+2020-07-29 23:11:40		Options reloaded from python.conf
+2020-07-29 23:11:40		Options reloaded from guile.conf
+2020-07-29 23:11:40		Options reloaded from perl.conf
+2020-07-29 23:11:40		Options reloaded from tcl.conf
+2020-07-29 23:11:40		Options reloaded from script.conf
+2020-07-29 23:11:40		Options reloaded from fset.conf
+2020-07-29 23:12:14		New key binding (context "default"): meta2-1;5P => /bar scroll buflist * -100%
+2020-07-29 23:12:14		New key binding (context "default"): meta2-1;5Q => /bar scroll buflist * +100%
+2020-07-29 23:12:14		New key binding (context "default"): meta-meta-OQ => /bar scroll buflist * e
+2020-07-29 23:12:14		New key binding (context "default"): meta2-1;3Q => /bar scroll buflist * e
+2020-07-29 23:12:14		New key binding (context "default"): meta2-1;3P => /bar scroll buflist * b
+2020-07-29 23:12:14		New key binding (context "default"): meta-meta-OP => /bar scroll buflist * b
+2020-07-29 23:12:14		New key binding (context "default"): meta-B => /buflist toggle
+2020-07-29 23:12:14		New key binding (context "default"): meta-OQ => /bar scroll buflist * +100%
+2020-07-29 23:12:14		New key binding (context "default"): meta-OP => /bar scroll buflist * -100%
+2020-07-29 23:12:14		New key binding (context "default"): meta-meta2-12~ => /bar scroll buflist * e
+2020-07-29 23:12:14		New key binding (context "default"): meta-meta2-11~ => /bar scroll buflist * b
+2020-07-29 23:12:14		New key binding (context "default"): meta2-12^ => /bar scroll buflist * +100%
+2020-07-29 23:12:14		New key binding (context "default"): meta2-12~ => /bar scroll buflist * +100%
+2020-07-29 23:12:14		New key binding (context "default"): meta2-11^ => /bar scroll buflist * -100%
+2020-07-29 23:12:14		New key binding (context "default"): meta2-11~ => /bar scroll buflist * -100%
+2020-07-29 23:12:14		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, lua, perl, python, relay, script, tcl, trigger, xfer
+2020-07-29 23:12:20		Options reloaded from sec.conf
+2020-07-29 23:12:20	+	Warning: /home/wakamiya/.weechat/weechat.conf, line 22: unknown option for section "look": day_change_time_format = "%a, %d %b %Y"
+2020-07-29 23:12:20	+	Warning: /home/wakamiya/.weechat/weechat.conf, line 26: unknown option for section "look": hline_char = ""
+2020-07-29 23:12:20	+	Warning: /home/wakamiya/.weechat/weechat.conf, line 27: unknown option for section "look": hotlist_add_buffer_if_away = on
+2020-07-29 23:12:20	+	Warning: /home/wakamiya/.weechat/weechat.conf, line 45: unknown option for section "look": nickmode = on
+2020-07-29 23:12:20	+	Warning: /home/wakamiya/.weechat/weechat.conf, line 46: unknown option for section "look": nickmode_empty = off
+2020-07-29 23:12:20	+	Warning: /home/wakamiya/.weechat/weechat.conf, line 52: invalid value for option: prefix_align_more = on
+2020-07-29 23:12:20	+	Warning: /home/wakamiya/.weechat/weechat.conf, line 55: invalid value for option: prefix_buffer_align_more = on
+2020-07-29 23:12:20	+	Warning: /home/wakamiya/.weechat/weechat.conf, line 69: unknown option for section "look": set_title = on
+2020-07-29 23:12:20	+	Warning: /home/wakamiya/.weechat/weechat.conf, line 348: unknown option for section "color": nicklist_offline = blue
+2020-07-29 23:12:20	+	Warning: /home/wakamiya/.weechat/weechat.conf, line 380: unknown option for section "history": max_lines = 4096
+2020-07-29 23:12:20		Options reloaded from weechat.conf
+2020-07-29 23:12:20		Options reloaded from plugins.conf
+2020-07-29 23:12:20		Options reloaded from charset.conf
+2020-07-29 23:12:20		Options reloaded from logger.conf
+2020-07-29 23:12:20		Options reloaded from exec.conf
+2020-07-29 23:12:20		Options reloaded from trigger.conf
+2020-07-29 23:12:20		Options reloaded from alias.conf
+2020-07-29 23:12:20		Options reloaded from buflist.conf
+2020-07-29 23:12:20		Options reloaded from fifo.conf
+2020-07-29 23:12:20		Options reloaded from xfer.conf
+2020-07-29 23:12:20		Options reloaded from irc.conf
+2020-07-29 23:12:20		Options reloaded from relay.conf
+2020-07-29 23:12:20		Options reloaded from lua.conf
+2020-07-29 23:12:20		Options reloaded from python.conf
+2020-07-29 23:12:20		Options reloaded from guile.conf
+2020-07-29 23:12:20		Options reloaded from perl.conf
+2020-07-29 23:12:20		Options reloaded from tcl.conf
+2020-07-29 23:12:20		Options reloaded from script.conf
+2020-07-29 23:12:20		Options reloaded from fset.conf
+2020-07-29 23:12:37		New key binding (context "default"): meta2-1;5P => /bar scroll buflist * -100%
+2020-07-29 23:12:37		New key binding (context "default"): meta2-1;5Q => /bar scroll buflist * +100%
+2020-07-29 23:12:37		New key binding (context "default"): meta-meta-OQ => /bar scroll buflist * e
+2020-07-29 23:12:37		New key binding (context "default"): meta2-1;3Q => /bar scroll buflist * e
+2020-07-29 23:12:37		New key binding (context "default"): meta2-1;3P => /bar scroll buflist * b
+2020-07-29 23:12:37		New key binding (context "default"): meta-meta-OP => /bar scroll buflist * b
+2020-07-29 23:12:37		New key binding (context "default"): meta-B => /buflist toggle
+2020-07-29 23:12:37		New key binding (context "default"): meta-OQ => /bar scroll buflist * +100%
+2020-07-29 23:12:37		New key binding (context "default"): meta-OP => /bar scroll buflist * -100%
+2020-07-29 23:12:37		New key binding (context "default"): meta-meta2-12~ => /bar scroll buflist * e
+2020-07-29 23:12:37		New key binding (context "default"): meta-meta2-11~ => /bar scroll buflist * b
+2020-07-29 23:12:37		New key binding (context "default"): meta2-12^ => /bar scroll buflist * +100%
+2020-07-29 23:12:37		New key binding (context "default"): meta2-12~ => /bar scroll buflist * +100%
+2020-07-29 23:12:37		New key binding (context "default"): meta2-11^ => /bar scroll buflist * -100%
+2020-07-29 23:12:37		New key binding (context "default"): meta2-11~ => /bar scroll buflist * -100%
+2020-07-29 23:12:37		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, lua, perl, python, relay, script, tcl, trigger, xfer
+2020-07-29 23:14:18	=!=	You can not write text in this buffer
+2020-07-29 23:17:33		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, lua, perl, python, relay, script, tcl, trigger, xfer
+2020-07-29 23:17:46	=!=	Error: unknown command "/settings" (type /help for help)
+2020-07-29 23:22:54		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, lua, perl, python, relay, script, tcl, trigger, xfer
+2020-07-29 23:23:15	=!=	irc: command "nick" must be executed on irc buffer (server, channel or private)
+2020-07-29 23:23:24	=!=	Error with command "/server irc.rizon.net/6697" (help on command: /help server)
+2020-07-29 23:23:35		[irc]  /server  list|listfull [<name>]
+2020-07-29 23:23:35		                add <name> <hostname>[/<port>] [-temp] [-<option>[=<value>]] [-no<option>]
+2020-07-29 23:23:35		                copy|rename <name> <new_name>
+2020-07-29 23:23:35		                reorder <name> [<name>...]
+2020-07-29 23:23:35		                open <name>|-all [<name>...]
+2020-07-29 23:23:35		                del|keep <name>
+2020-07-29 23:23:35		                deloutq|jump
+2020-07-29 23:23:35		                raw [<filter>]
+2020-07-29 23:23:35		list, add or remove IRC servers
+2020-07-29 23:23:35		    list: list servers (without argument, this list is displayed)
+2020-07-29 23:23:35		listfull: list servers with detailed info for each server
+2020-07-29 23:23:35		     add: add a new server
+2020-07-29 23:23:35		    name: server name, for internal and display use; this name is used to connect to the server (/connect name) and to set server options: irc.server.name.xxx
+2020-07-29 23:23:35		hostname: name or IP address of server, with optional port (default: 6667), many addresses can be separated by a comma
+2020-07-29 23:23:35		   -temp: add a temporary server (not saved)
+2020-07-29 23:23:35		  option: set option for server (for boolean option, value can be omitted)
+2020-07-29 23:23:35		nooption: set boolean option to 'off' (for example: -nossl)
+2020-07-29 23:23:35		    copy: duplicate a server
+2020-07-29 23:23:35		  rename: rename a server
+2020-07-29 23:23:35		 reorder: reorder list of servers
+2020-07-29 23:23:35		    open: open the server buffer without connecting
+2020-07-29 23:23:35		    keep: keep server in config file (for temporary servers only)
+2020-07-29 23:23:35		     del: delete a server
+2020-07-29 23:23:35		 deloutq: delete messages out queue for all servers (all messages WeeChat is currently sending)
+2020-07-29 23:23:35		    jump: jump to server buffer
+2020-07-29 23:23:35		     raw: open buffer with raw IRC data
+2020-07-29 23:23:35		  filter: set a new filter to see only matching messages (this filter can be used as input in raw IRC data buffer as well); allowed formats are:
+2020-07-29 23:23:35		            *       show all messages (no filter)
+2020-07-29 23:23:35		            xxx     show only messages containing "xxx"
+2020-07-29 23:23:35		            s:xxx   show only messages for server "xxx"
+2020-07-29 23:23:35		            f:xxx   show only messages with a flag: recv (message received), sent (message sent), modified (message modified by a modifier), redirected (message redirected)
+2020-07-29 23:23:35		            m:xxx   show only IRC command "xxx"
+2020-07-29 23:23:35		            c:xxx   show only messages matching the evaluated condition "xxx", using following variables: output of function irc_message_parse (like nick, command, channel, text, etc., see function info_get_hashtable in plugin API reference for the list of all variables), date (format: "yyyy-mm-dd hh:mm:ss"), server, recv, sent, modified, redirected
+2020-07-29 23:23:35		Examples:
+2020-07-29 23:23:35		  /server listfull
+2020-07-29 23:23:35		  /server add freenode chat.freenode.net
+2020-07-29 23:23:35		  /server add freenode chat.freenode.net/6697 -ssl -autoconnect
+2020-07-29 23:23:35		  /server add chatspike irc.chatspike.net/6667,irc.duckspike.net/6667
+2020-07-29 23:23:35		  /server copy freenode freenode-test
+2020-07-29 23:23:35		  /server rename freenode-test freenode2
+2020-07-29 23:23:35		  /server reorder freenode2 freenode
+2020-07-29 23:23:35		  /server del freenode
+2020-07-29 23:23:35		  /server deloutq
+2020-07-29 23:23:35		  /server raw
+2020-07-29 23:23:35		  /server raw s:freenode
+2020-07-29 23:23:35		  /server raw c:${recv} && ${command}==PRIVMSG && ${nick}==foo
+2020-07-29 23:23:49		irc: server added: Rizon
+2020-07-29 23:23:52	=!=	You can not write text in this buffer
+2020-07-29 23:24:04	=!=	irc: command "list" must be executed on irc buffer (server, channel or private)
+2020-07-29 23:24:08		All servers:
+2020-07-29 23:24:08		Server: Rizon [not connected]
+2020-07-29 23:24:08		  addresses. . . . . . : 'irc.rizon.net/6697'
+2020-07-29 23:24:08		  proxy. . . . . . . . :   ('')
+2020-07-29 23:24:08		  ipv6 . . . . . . . . :   (on)
+2020-07-29 23:24:08		  ssl. . . . . . . . . :   (off)
+2020-07-29 23:24:08		  ssl_cert . . . . . . :   ('')
+2020-07-29 23:24:08		  ssl_password . . . . :   (hidden)
+2020-07-29 23:24:08		  ssl_priorities . . . :   ('NORMAL:-VERS-SSL3.0')
+2020-07-29 23:24:08		  ssl_dhkey_size . . . :   (2048)
+2020-07-29 23:24:08		  ssl_fingerprint. . . :   ('')
+2020-07-29 23:24:08		  ssl_verify . . . . . :   (on)
+2020-07-29 23:24:08		  password . . . . . . :   (hidden)
+2020-07-29 23:24:08		  capabilities . . . . :   ('')
+2020-07-29 23:24:08		  sasl_mechanism . . . :   ('plain')
+2020-07-29 23:24:08		  sasl_username. . . . :   ('')
+2020-07-29 23:24:08		  sasl_password. . . . :   (hidden)
+2020-07-29 23:24:08		  sasl_key. .  . . . . :   ('')
+2020-07-29 23:24:08		  sasl_timeout . . . . :   (15 seconds)
+2020-07-29 23:24:08		  sasl_fail. . . . . . :   ('continue')
+2020-07-29 23:24:08		  autoconnect. . . . . : on
+2020-07-29 23:24:08		  autoreconnect. . . . :   (on)
+2020-07-29 23:24:08		  autoreconnect_delay. :   (10 seconds)
+2020-07-29 23:24:08		  nicks. . . . . . . . :   ('wakamiya,wakamiya1,wakamiya2,wakamiya3,wakamiya4')
+2020-07-29 23:24:08		  nicks_alternate. . . :   (on)
+2020-07-29 23:24:08		  username . . . . . . :   ('wakamiya')
+2020-07-29 23:24:08		  realname . . . . . . :   ('')
+2020-07-29 23:24:08		  local_hostname . . . :   ('')
+2020-07-29 23:24:08		  usermode . . . . . . :   ('')
+2020-07-29 23:24:08		  command. . . . . . . :   ('')
+2020-07-29 23:24:08		  command_delay. . . . :   (0 seconds)
+2020-07-29 23:24:08		  autojoin . . . . . . :   ('')
+2020-07-29 23:24:08		  autorejoin . . . . . :   (off)
+2020-07-29 23:24:08		  autorejoin_delay . . :   (30 seconds)
+2020-07-29 23:24:08		  connection_timeout . :   (60 seconds)
+2020-07-29 23:24:08		  anti_flood_prio_high :   (2 seconds)
+2020-07-29 23:24:08		  anti_flood_prio_low. :   (2 seconds)
+2020-07-29 23:24:08		  away_check . . . . . :   (0 minutes)
+2020-07-29 23:24:08		  away_check_max_nicks :   (25)
+2020-07-29 23:24:08		  msg_kick . . . . . . :   ('')
+2020-07-29 23:24:08		  msg_part . . . . . . :   ('WeeChat ${info:version}')
+2020-07-29 23:24:08		  msg_quit . . . . . . :   ('WeeChat ${info:version}')
+2020-07-29 23:24:08		  notify . . . . . . . :   ('')
+2020-07-29 23:24:08		  split_msg_max_length :   (512)
+2020-07-29 23:24:08		  charset_message. . . :   ('message')
+2020-07-29 23:24:19	=!=	irc: unable to add temporary server "irc.rizon.net/6697" because the addition of temporary servers with command /connect is currently disabled
+2020-07-29 23:24:19	=!=	irc: if you want to add a standard server, use the command "/server add" (see /help server); if you really want to add a temporary server (NOT SAVED), turn on the option irc.look.temporary_servers
+2020-07-29 23:24:35	=!=	Error with command "/server rizon" (help on command: /help server)
+2020-07-29 23:24:40		[irc]  /server  list|listfull [<name>]
+2020-07-29 23:24:40		                add <name> <hostname>[/<port>] [-temp] [-<option>[=<value>]] [-no<option>]
+2020-07-29 23:24:40		                copy|rename <name> <new_name>
+2020-07-29 23:24:40		                reorder <name> [<name>...]
+2020-07-29 23:24:40		                open <name>|-all [<name>...]
+2020-07-29 23:24:40		                del|keep <name>
+2020-07-29 23:24:40		                deloutq|jump
+2020-07-29 23:24:40		                raw [<filter>]
+2020-07-29 23:24:40		list, add or remove IRC servers
+2020-07-29 23:24:40		    list: list servers (without argument, this list is displayed)
+2020-07-29 23:24:40		listfull: list servers with detailed info for each server
+2020-07-29 23:24:40		     add: add a new server
+2020-07-29 23:24:40		    name: server name, for internal and display use; this name is used to connect to the server (/connect name) and to set server options: irc.server.name.xxx
+2020-07-29 23:24:40		hostname: name or IP address of server, with optional port (default: 6667), many addresses can be separated by a comma
+2020-07-29 23:24:40		   -temp: add a temporary server (not saved)
+2020-07-29 23:24:40		  option: set option for server (for boolean option, value can be omitted)
+2020-07-29 23:24:40		nooption: set boolean option to 'off' (for example: -nossl)
+2020-07-29 23:24:40		    copy: duplicate a server
+2020-07-29 23:24:40		  rename: rename a server
+2020-07-29 23:24:40		 reorder: reorder list of servers
+2020-07-29 23:24:40		    open: open the server buffer without connecting
+2020-07-29 23:24:40		    keep: keep server in config file (for temporary servers only)
+2020-07-29 23:24:40		     del: delete a server
+2020-07-29 23:24:40		 deloutq: delete messages out queue for all servers (all messages WeeChat is currently sending)
+2020-07-29 23:24:40		    jump: jump to server buffer
+2020-07-29 23:24:40		     raw: open buffer with raw IRC data
+2020-07-29 23:24:40		  filter: set a new filter to see only matching messages (this filter can be used as input in raw IRC data buffer as well); allowed formats are:
+2020-07-29 23:24:40		            *       show all messages (no filter)
+2020-07-29 23:24:40		            xxx     show only messages containing "xxx"
+2020-07-29 23:24:40		            s:xxx   show only messages for server "xxx"
+2020-07-29 23:24:40		            f:xxx   show only messages with a flag: recv (message received), sent (message sent), modified (message modified by a modifier), redirected (message redirected)
+2020-07-29 23:24:40		            m:xxx   show only IRC command "xxx"
+2020-07-29 23:24:40		            c:xxx   show only messages matching the evaluated condition "xxx", using following variables: output of function irc_message_parse (like nick, command, channel, text, etc., see function info_get_hashtable in plugin API reference for the list of all variables), date (format: "yyyy-mm-dd hh:mm:ss"), server, recv, sent, modified, redirected
+2020-07-29 23:24:40		Examples:
+2020-07-29 23:24:40		  /server listfull
+2020-07-29 23:24:40		  /server add freenode chat.freenode.net
+2020-07-29 23:24:40		  /server add freenode chat.freenode.net/6697 -ssl -autoconnect
+2020-07-29 23:24:40		  /server add chatspike irc.chatspike.net/6667,irc.duckspike.net/6667
+2020-07-29 23:24:40		  /server copy freenode freenode-test
+2020-07-29 23:24:40		  /server rename freenode-test freenode2
+2020-07-29 23:24:40		  /server reorder freenode2 freenode
+2020-07-29 23:24:40		  /server del freenode
+2020-07-29 23:24:40		  /server deloutq
+2020-07-29 23:24:40		  /server raw
+2020-07-29 23:24:40		  /server raw s:freenode
+2020-07-29 23:24:40		  /server raw c:${recv} && ${command}==PRIVMSG && ${nick}==foo
+2020-07-29 23:24:43	=!=	Error: unknown command "/rizon" (type /help for help)
+2020-07-29 23:25:25	=!=	irc: unable to add temporary server "irc.rizon.net/6697" because the addition of temporary servers with command /connect is currently disabled
+2020-07-29 23:25:25	=!=	irc: if you want to add a standard server, use the command "/server add" (see /help server); if you really want to add a temporary server (NOT SAVED), turn on the option irc.look.temporary_servers
+2020-07-29 23:25:32	=!=	irc: unable to add temporary server "rizon" because the addition of temporary servers with command /connect is currently disabled
+2020-07-29 23:25:32	=!=	irc: if you want to add a standard server, use the command "/server add" (see /help server); if you really want to add a temporary server (NOT SAVED), turn on the option irc.look.temporary_servers
+2020-07-29 23:26:33		[core]
+2020-07-29 23:26:33		  away     color    debug    help     key      mute     proxy    repeat   set      uptime   window 
+2020-07-29 23:26:33		  bar      command  eval     history  layout   plugin   quit     save     unset    version
+2020-07-29 23:26:33		  buffer   cursor   filter   input    mouse    print    reload   secure   upgrade  wait   
+2020-07-29 23:26:33		[lua]
+2020-07-29 23:26:33		  lua
+2020-07-29 23:26:33		[python]
+2020-07-29 23:26:33		  python
+2020-07-29 23:26:33		[trigger]
+2020-07-29 23:26:33		  trigger
+2020-07-29 23:26:33		[relay]
+2020-07-29 23:26:33		  relay
+2020-07-29 23:26:33		[exec]
+2020-07-29 23:26:33		  exec
+2020-07-29 23:26:33		[charset]
+2020-07-29 23:26:33		  charset
+2020-07-29 23:26:33		[buflist]
+2020-07-29 23:26:33		  buflist
+2020-07-29 23:26:33		[fifo]
+2020-07-29 23:26:33		  fifo
+2020-07-29 23:26:33		[irc]
+2020-07-29 23:26:33		  admin       ctcp        disconnect  kick        me          notify      quiet       samode      squery      unban       wallops   
+2020-07-29 23:26:33		  allchan     cycle       halfop      kickban     mode        op          quote       sanick      squit       unquiet     who       
+2020-07-29 23:26:33		  allpv       dcc         ignore      kill        motd        oper        reconnect   sapart      stats       userhost    whois     
+2020-07-29 23:26:33		  allserv     dehalfop    info        links       msg         part        rehash      saquit      summon      users       whowas    
+2020-07-29 23:26:33		  ban         deop        invite      list        names       ping        remove      server      time        version   
+2020-07-29 23:26:33		  cap         devoice     ison        lusers      nick        pong        restart     service     topic       voice     
+2020-07-29 23:26:33		  connect     die         join        map         notice      query       sajoin      servlist    trace       wallchops 
+2020-07-29 23:26:33		[fset]
+2020-07-29 23:26:33		  fset
+2020-07-29 23:26:33		[alias]
+2020-07-29 23:26:33		  AAWAY    BEEP     CHAT     EXIT     K        M        N        SAY      UB       W        WII    
+2020-07-29 23:26:33		  alias    BYE      CL       IG       KB       MSGBUF   Q        SIGNOFF  UMODE    WC       WM     
+2020-07-29 23:26:33		  ANICK    C        CLOSE    J        LEAVE    MUB      REDRAW   T        V        WI       WW     
+2020-07-29 23:26:33		[logger]
+2020-07-29 23:26:33		  logger
+2020-07-29 23:26:33		[guile]
+2020-07-29 23:26:33		  guile
+2020-07-29 23:26:33		[perl]
+2020-07-29 23:26:33		  perl
+2020-07-29 23:26:33		[script]
+2020-07-29 23:26:33		  script
+2020-07-29 23:26:33		[xfer]
+2020-07-29 23:26:33		  me  xfer
+2020-07-29 23:26:33		[tcl]
+2020-07-29 23:26:33		  tcl
+2020-07-29 23:27:02	=!=	Error: option "config.section.option" not found
+2020-07-29 23:29:19	=!=	irc: unable to add temporary server "rizon" because the addition of temporary servers with command /connect is currently disabled
+2020-07-29 23:29:19	=!=	irc: if you want to add a standard server, use the command "/server add" (see /help server); if you really want to add a temporary server (NOT SAVED), turn on the option irc.look.temporary_servers
+2020-07-29 23:29:36		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, lua, perl, python, relay, script, tcl, trigger, xfer
+2020-07-29 23:30:52	=!=	Error with command "/server rizon irc.rizon.net/7000" (help on command: /help server)
+2020-07-29 23:30:57		[irc]  /server  list|listfull [<name>]
+2020-07-29 23:30:57		                add <name> <hostname>[/<port>] [-temp] [-<option>[=<value>]] [-no<option>]
+2020-07-29 23:30:57		                copy|rename <name> <new_name>
+2020-07-29 23:30:57		                reorder <name> [<name>...]
+2020-07-29 23:30:57		                open <name>|-all [<name>...]
+2020-07-29 23:30:57		                del|keep <name>
+2020-07-29 23:30:57		                deloutq|jump
+2020-07-29 23:30:57		                raw [<filter>]
+2020-07-29 23:30:57		list, add or remove IRC servers
+2020-07-29 23:30:57		    list: list servers (without argument, this list is displayed)
+2020-07-29 23:30:57		listfull: list servers with detailed info for each server
+2020-07-29 23:30:57		     add: add a new server
+2020-07-29 23:30:57		    name: server name, for internal and display use; this name is used to connect to the server (/connect name) and to set server options: irc.server.name.xxx
+2020-07-29 23:30:57		hostname: name or IP address of server, with optional port (default: 6667), many addresses can be separated by a comma
+2020-07-29 23:30:57		   -temp: add a temporary server (not saved)
+2020-07-29 23:30:57		  option: set option for server (for boolean option, value can be omitted)
+2020-07-29 23:30:57		nooption: set boolean option to 'off' (for example: -nossl)
+2020-07-29 23:30:57		    copy: duplicate a server
+2020-07-29 23:30:57		  rename: rename a server
+2020-07-29 23:30:57		 reorder: reorder list of servers
+2020-07-29 23:30:57		    open: open the server buffer without connecting
+2020-07-29 23:30:57		    keep: keep server in config file (for temporary servers only)
+2020-07-29 23:30:57		     del: delete a server
+2020-07-29 23:30:57		 deloutq: delete messages out queue for all servers (all messages WeeChat is currently sending)
+2020-07-29 23:30:57		    jump: jump to server buffer
+2020-07-29 23:30:57		     raw: open buffer with raw IRC data
+2020-07-29 23:30:57		  filter: set a new filter to see only matching messages (this filter can be used as input in raw IRC data buffer as well); allowed formats are:
+2020-07-29 23:30:57		            *       show all messages (no filter)
+2020-07-29 23:30:57		            xxx     show only messages containing "xxx"
+2020-07-29 23:30:57		            s:xxx   show only messages for server "xxx"
+2020-07-29 23:30:57		            f:xxx   show only messages with a flag: recv (message received), sent (message sent), modified (message modified by a modifier), redirected (message redirected)
+2020-07-29 23:30:57		            m:xxx   show only IRC command "xxx"
+2020-07-29 23:30:57		            c:xxx   show only messages matching the evaluated condition "xxx", using following variables: output of function irc_message_parse (like nick, command, channel, text, etc., see function info_get_hashtable in plugin API reference for the list of all variables), date (format: "yyyy-mm-dd hh:mm:ss"), server, recv, sent, modified, redirected
+2020-07-29 23:30:57		Examples:
+2020-07-29 23:30:57		  /server listfull
+2020-07-29 23:30:57		  /server add freenode chat.freenode.net
+2020-07-29 23:30:57		  /server add freenode chat.freenode.net/6697 -ssl -autoconnect
+2020-07-29 23:30:57		  /server add chatspike irc.chatspike.net/6667,irc.duckspike.net/6667
+2020-07-29 23:30:57		  /server copy freenode freenode-test
+2020-07-29 23:30:57		  /server rename freenode-test freenode2
+2020-07-29 23:30:57		  /server reorder freenode2 freenode
+2020-07-29 23:30:57		  /server del freenode
+2020-07-29 23:30:57		  /server deloutq
+2020-07-29 23:30:57		  /server raw
+2020-07-29 23:30:57		  /server raw s:freenode
+2020-07-29 23:30:57		  /server raw c:${recv} && ${command}==PRIVMSG && ${nick}==foo
+2020-07-29 23:31:10	=!=	irc: server "rizon" not found for "server del" command
+2020-07-29 23:31:29	=!=	Too few arguments for command "/server add" (help on command: /help server)
+2020-07-29 23:31:37	=!=	irc: server "Rizon" already exists, can't add it!
+2020-07-29 23:32:20		irc: messages outqueue DELETED for all servers. Some messages from you or WeeChat may have been lost!
+2020-07-29 23:32:52	=!=	Error with command "/server help" (help on command: /help server)
+2020-07-29 23:32:58		[irc]  /server  list|listfull [<name>]
+2020-07-29 23:32:58		                add <name> <hostname>[/<port>] [-temp] [-<option>[=<value>]] [-no<option>]
+2020-07-29 23:32:58		                copy|rename <name> <new_name>
+2020-07-29 23:32:58		                reorder <name> [<name>...]
+2020-07-29 23:32:58		                open <name>|-all [<name>...]
+2020-07-29 23:32:58		                del|keep <name>
+2020-07-29 23:32:58		                deloutq|jump
+2020-07-29 23:32:58		                raw [<filter>]
+2020-07-29 23:32:58		list, add or remove IRC servers
+2020-07-29 23:32:58		    list: list servers (without argument, this list is displayed)
+2020-07-29 23:32:58		listfull: list servers with detailed info for each server
+2020-07-29 23:32:58		     add: add a new server
+2020-07-29 23:32:58		    name: server name, for internal and display use; this name is used to connect to the server (/connect name) and to set server options: irc.server.name.xxx
+2020-07-29 23:32:58		hostname: name or IP address of server, with optional port (default: 6667), many addresses can be separated by a comma
+2020-07-29 23:32:58		   -temp: add a temporary server (not saved)
+2020-07-29 23:32:58		  option: set option for server (for boolean option, value can be omitted)
+2020-07-29 23:32:58		nooption: set boolean option to 'off' (for example: -nossl)
+2020-07-29 23:32:58		    copy: duplicate a server
+2020-07-29 23:32:58		  rename: rename a server
+2020-07-29 23:32:58		 reorder: reorder list of servers
+2020-07-29 23:32:58		    open: open the server buffer without connecting
+2020-07-29 23:32:58		    keep: keep server in config file (for temporary servers only)
+2020-07-29 23:32:58		     del: delete a server
+2020-07-29 23:32:58		 deloutq: delete messages out queue for all servers (all messages WeeChat is currently sending)
+2020-07-29 23:32:58		    jump: jump to server buffer
+2020-07-29 23:32:58		     raw: open buffer with raw IRC data
+2020-07-29 23:32:58		  filter: set a new filter to see only matching messages (this filter can be used as input in raw IRC data buffer as well); allowed formats are:
+2020-07-29 23:32:58		            *       show all messages (no filter)
+2020-07-29 23:32:58		            xxx     show only messages containing "xxx"
+2020-07-29 23:32:58		            s:xxx   show only messages for server "xxx"
+2020-07-29 23:32:58		            f:xxx   show only messages with a flag: recv (message received), sent (message sent), modified (message modified by a modifier), redirected (message redirected)
+2020-07-29 23:32:58		            m:xxx   show only IRC command "xxx"
+2020-07-29 23:32:58		            c:xxx   show only messages matching the evaluated condition "xxx", using following variables: output of function irc_message_parse (like nick, command, channel, text, etc., see function info_get_hashtable in plugin API reference for the list of all variables), date (format: "yyyy-mm-dd hh:mm:ss"), server, recv, sent, modified, redirected
+2020-07-29 23:32:58		Examples:
+2020-07-29 23:32:58		  /server listfull
+2020-07-29 23:32:58		  /server add freenode chat.freenode.net
+2020-07-29 23:32:58		  /server add freenode chat.freenode.net/6697 -ssl -autoconnect
+2020-07-29 23:32:58		  /server add chatspike irc.chatspike.net/6667,irc.duckspike.net/6667
+2020-07-29 23:32:58		  /server copy freenode freenode-test
+2020-07-29 23:32:58		  /server rename freenode-test freenode2
+2020-07-29 23:32:58		  /server reorder freenode2 freenode
+2020-07-29 23:32:58		  /server del freenode
+2020-07-29 23:32:58		  /server deloutq
+2020-07-29 23:32:58		  /server raw
+2020-07-29 23:32:58		  /server raw s:freenode
+2020-07-29 23:32:58		  /server raw c:${recv} && ${command}==PRIVMSG && ${nick}==foo
+2020-07-29 23:33:10		All servers:
+2020-07-29 23:33:10		Server: Rizon [not connected], nick: wakamiya
+2020-07-29 23:33:10		  addresses. . . . . . : 'irc.rizon.net/6697'
+2020-07-29 23:33:10		  proxy. . . . . . . . :   ('')
+2020-07-29 23:33:10		  ipv6 . . . . . . . . :   (on)
+2020-07-29 23:33:10		  ssl. . . . . . . . . :   (off)
+2020-07-29 23:33:10		  ssl_cert . . . . . . :   ('')
+2020-07-29 23:33:10		  ssl_password . . . . :   (hidden)
+2020-07-29 23:33:10		  ssl_priorities . . . :   ('NORMAL:-VERS-SSL3.0')
+2020-07-29 23:33:10		  ssl_dhkey_size . . . :   (2048)
+2020-07-29 23:33:10		  ssl_fingerprint. . . :   ('')
+2020-07-29 23:33:10		  ssl_verify . . . . . :   (on)
+2020-07-29 23:33:10		  password . . . . . . :   (hidden)
+2020-07-29 23:33:10		  capabilities . . . . :   ('')
+2020-07-29 23:33:10		  sasl_mechanism . . . :   ('plain')
+2020-07-29 23:33:10		  sasl_username. . . . :   ('')
+2020-07-29 23:33:10		  sasl_password. . . . :   (hidden)
+2020-07-29 23:33:10		  sasl_key. .  . . . . :   ('')
+2020-07-29 23:33:10		  sasl_timeout . . . . :   (15 seconds)
+2020-07-29 23:33:10		  sasl_fail. . . . . . :   ('continue')
+2020-07-29 23:33:10		  autoconnect. . . . . : on
+2020-07-29 23:33:10		  autoreconnect. . . . :   (on)
+2020-07-29 23:33:10		  autoreconnect_delay. :   (10 seconds)
+2020-07-29 23:33:10		  nicks. . . . . . . . :   ('wakamiya,wakamiya1,wakamiya2,wakamiya3,wakamiya4')
+2020-07-29 23:33:10		  nicks_alternate. . . :   (on)
+2020-07-29 23:33:10		  username . . . . . . :   ('wakamiya')
+2020-07-29 23:33:10		  realname . . . . . . :   ('')
+2020-07-29 23:33:10		  local_hostname . . . :   ('')
+2020-07-29 23:33:10		  usermode . . . . . . :   ('')
+2020-07-29 23:33:10		  command. . . . . . . :   ('')
+2020-07-29 23:33:10		  command_delay. . . . :   (0 seconds)
+2020-07-29 23:33:10		  autojoin . . . . . . :   ('')
+2020-07-29 23:33:10		  autorejoin . . . . . :   (off)
+2020-07-29 23:33:10		  autorejoin_delay . . :   (30 seconds)
+2020-07-29 23:33:10		  connection_timeout . :   (60 seconds)
+2020-07-29 23:33:10		  anti_flood_prio_high :   (2 seconds)
+2020-07-29 23:33:10		  anti_flood_prio_low. :   (2 seconds)
+2020-07-29 23:33:10		  away_check . . . . . :   (0 minutes)
+2020-07-29 23:33:10		  away_check_max_nicks :   (25)
+2020-07-29 23:33:10		  msg_kick . . . . . . :   ('')
+2020-07-29 23:33:10		  msg_part . . . . . . :   ('WeeChat ${info:version}')
+2020-07-29 23:33:10		  msg_quit . . . . . . :   ('WeeChat ${info:version}')
+2020-07-29 23:33:10		  notify . . . . . . . :   ('')
+2020-07-29 23:33:10		  split_msg_max_length :   (512)
+2020-07-29 23:33:10		  charset_message. . . :   ('message')
+2020-07-29 23:33:18	=!=	Error with command "/server help" (help on command: /help server)
+2020-07-29 23:33:21		[irc]  /server  list|listfull [<name>]
+2020-07-29 23:33:21		                add <name> <hostname>[/<port>] [-temp] [-<option>[=<value>]] [-no<option>]
+2020-07-29 23:33:21		                copy|rename <name> <new_name>
+2020-07-29 23:33:21		                reorder <name> [<name>...]
+2020-07-29 23:33:21		                open <name>|-all [<name>...]
+2020-07-29 23:33:21		                del|keep <name>
+2020-07-29 23:33:21		                deloutq|jump
+2020-07-29 23:33:21		                raw [<filter>]
+2020-07-29 23:33:21		list, add or remove IRC servers
+2020-07-29 23:33:21		    list: list servers (without argument, this list is displayed)
+2020-07-29 23:33:21		listfull: list servers with detailed info for each server
+2020-07-29 23:33:21		     add: add a new server
+2020-07-29 23:33:21		    name: server name, for internal and display use; this name is used to connect to the server (/connect name) and to set server options: irc.server.name.xxx
+2020-07-29 23:33:21		hostname: name or IP address of server, with optional port (default: 6667), many addresses can be separated by a comma
+2020-07-29 23:33:21		   -temp: add a temporary server (not saved)
+2020-07-29 23:33:21		  option: set option for server (for boolean option, value can be omitted)
+2020-07-29 23:33:21		nooption: set boolean option to 'off' (for example: -nossl)
+2020-07-29 23:33:21		    copy: duplicate a server
+2020-07-29 23:33:21		  rename: rename a server
+2020-07-29 23:33:21		 reorder: reorder list of servers
+2020-07-29 23:33:21		    open: open the server buffer without connecting
+2020-07-29 23:33:21		    keep: keep server in config file (for temporary servers only)
+2020-07-29 23:33:21		     del: delete a server
+2020-07-29 23:33:21		 deloutq: delete messages out queue for all servers (all messages WeeChat is currently sending)
+2020-07-29 23:33:21		    jump: jump to server buffer
+2020-07-29 23:33:21		     raw: open buffer with raw IRC data
+2020-07-29 23:33:21		  filter: set a new filter to see only matching messages (this filter can be used as input in raw IRC data buffer as well); allowed formats are:
+2020-07-29 23:33:21		            *       show all messages (no filter)
+2020-07-29 23:33:21		            xxx     show only messages containing "xxx"
+2020-07-29 23:33:21		            s:xxx   show only messages for server "xxx"
+2020-07-29 23:33:21		            f:xxx   show only messages with a flag: recv (message received), sent (message sent), modified (message modified by a modifier), redirected (message redirected)
+2020-07-29 23:33:21		            m:xxx   show only IRC command "xxx"
+2020-07-29 23:33:21		            c:xxx   show only messages matching the evaluated condition "xxx", using following variables: output of function irc_message_parse (like nick, command, channel, text, etc., see function info_get_hashtable in plugin API reference for the list of all variables), date (format: "yyyy-mm-dd hh:mm:ss"), server, recv, sent, modified, redirected
+2020-07-29 23:33:21		Examples:
+2020-07-29 23:33:21		  /server listfull
+2020-07-29 23:33:21		  /server add freenode chat.freenode.net
+2020-07-29 23:33:21		  /server add freenode chat.freenode.net/6697 -ssl -autoconnect
+2020-07-29 23:33:21		  /server add chatspike irc.chatspike.net/6667,irc.duckspike.net/6667
+2020-07-29 23:33:21		  /server copy freenode freenode-test
+2020-07-29 23:33:21		  /server rename freenode-test freenode2
+2020-07-29 23:33:21		  /server reorder freenode2 freenode
+2020-07-29 23:33:21		  /server del freenode
+2020-07-29 23:33:21		  /server deloutq
+2020-07-29 23:33:21		  /server raw
+2020-07-29 23:33:21		  /server raw s:freenode
+2020-07-29 23:33:21		  /server raw c:${recv} && ${command}==PRIVMSG && ${nick}==foo
+2020-07-29 23:34:01	=!=	irc: server "Rizon" already exists, can't add it!
+2020-07-29 23:34:31	=!=	irc: server "rizon" not found for "server del" command
+2020-07-29 23:34:47		All servers:
+2020-07-29 23:34:47		   Rizon
+2020-07-29 23:34:52		irc: server Rizon has been deleted
+2020-07-29 23:35:18		irc: server added: Rizon
+2020-07-29 23:35:23		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, lua, perl, python, relay, script, tcl, trigger, xfer
+2020-07-29 23:36:44		Option changed: irc.server.Rizon.command = "/msg nickserv identify Hejhej123"  (default if null: "")
+2020-07-29 23:36:51		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, lua, perl, python, relay, script, tcl, trigger, xfer
+2020-07-29 23:37:59		Option changed: irc.server.Rizon.autojoin = "#Rice"  (default if null: "")
+2020-07-30 17:41:09		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, lua, perl, python, relay, script, tcl, trigger, xfer
+2020-07-30 17:50:47		Windows list:
+2020-07-30 17:50:47		[1] (10:0;82x91) 
+2020-07-30 17:50:58		Windows list:
+2020-07-30 17:50:58		[1] (10:0;82x91) 
+2020-07-30 17:51:01	=!=	Error with command "/window --help" (help on command: /help window)
+2020-07-30 17:51:20		Buffers list:
+2020-07-30 17:51:20		  [1] core.weechat (notify: all)
+2020-07-30 17:51:20		  [1] irc.server.Rizon (notify: all)
+2020-07-30 17:51:20		  [2] irc.Rizon.#rice (notify: all)
+2020-07-30 18:45:27		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, lua, perl, python, relay, script, tcl, trigger, xfer
+2020-07-30 18:46:24	=!=	Error: unknown command "/ser" (type /help for help)
+2020-07-30 18:46:30		Option changed: irc.server.Rizon.autojoin = "#music,#rice"  (default if null: "")
+2020-07-30 18:49:19	=!=	Error: option "weechat.bar.buflist.sizemax" not found
+2020-07-30 18:49:35	=!=	Error: option "buffer.position" not found
+2020-07-30 18:49:41	=!=	Error: incorrect buffer number
+2020-07-30 18:49:44	=!=	Error with command "/buffer help" (help on command: /help buffer)
+2020-07-30 18:49:47		[core]  /buffer  list
+2020-07-30 18:49:47		                 add [-free] [-switch] <name>
+2020-07-30 18:49:47		                 clear [<number>|<name>|-merged|-all [<number>|<name>...]]
+2020-07-30 18:49:47		                 move <number>|-|+
+2020-07-30 18:49:47		                 swap <number1>|<name1> [<number2>|<name2>]
+2020-07-30 18:49:47		                 cycle <number>|<name> [<number>|<name>...]
+2020-07-30 18:49:47		                 merge <number>|<name>
+2020-07-30 18:49:47		                 unmerge [<number>|-all]
+2020-07-30 18:49:47		                 hide [<number>|<name>|-all [<number>|<name>...]]
+2020-07-30 18:49:47		                 unhide [<number>|<name>|-all [<number>|<name>...]]
+2020-07-30 18:49:47		                 renumber [<number1> [<number2> [<start>]]]
+2020-07-30 18:49:47		                 close [<n1>[-<n2>]|<name>...]
+2020-07-30 18:49:47		                 notify [<level>]
+2020-07-30 18:49:47		                 localvar [<number>|<name>]
+2020-07-30 18:49:47		                 set <property> [<value>]
+2020-07-30 18:49:47		                 get <property>
+2020-07-30 18:49:47		                 <number>|-|+|<name>
+2020-07-30 18:49:47		manage buffers
+2020-07-30 18:49:47		    list: list buffers (without argument, this list is displayed)
+2020-07-30 18:49:47		     add: add a new buffer (it can be closed with "/buffer close" or input "q")
+2020-07-30 18:49:47		   clear: clear buffer content (number for a buffer, -merged for merged buffers, -all for all buffers, or nothing for current buffer)
+2020-07-30 18:49:47		    move: move buffer in the list (may be relative, for example -1); "-" = move to first buffer number, "+" = move to last buffer number + 1
+2020-07-30 18:49:47		    swap: swap two buffers (swap with current buffer if only one number/name given)
+2020-07-30 18:49:47		   cycle: jump loop between a list of buffers
+2020-07-30 18:49:47		   merge: merge current buffer to another buffer (chat area will be mix of both buffers)
+2020-07-30 18:49:47		          (by default ctrl-x switches between merged buffers)
+2020-07-30 18:49:47		 unmerge: unmerge buffer from other buffers which have same number
+2020-07-30 18:49:47		    hide: hide the buffer
+2020-07-30 18:49:47		  unhide: unhide the buffer
+2020-07-30 18:49:47		renumber: renumber buffers (works only if option weechat.look.buffer_auto_renumber is off)
+2020-07-30 18:49:47		   close: close buffer (number/range or name is optional)
+2020-07-30 18:49:47		  notify: display or set notify level for current buffer: this level determines whether buffer will be added to hotlist or not:
+2020-07-30 18:49:47		               none: never
+2020-07-30 18:49:47		          highlight: for highlights only
+2020-07-30 18:49:47		            message: for messages from users + highlights
+2020-07-30 18:49:47		                all: all messages
+2020-07-30 18:49:47		              reset: reset to default value (all)
+2020-07-30 18:49:47		localvar: display local variables for the buffer
+2020-07-30 18:49:47		     set: set a property for current buffer
+2020-07-30 18:49:47		     get: display a property of current buffer
+2020-07-30 18:49:47		  number: jump to buffer by number, possible prefix:
+2020-07-30 18:49:47		          '+': relative jump, add number to current
+2020-07-30 18:49:47		          '-': relative jump, sub number to current
+2020-07-30 18:49:47		          '*': jump to number, using option "weechat.look.jump_current_to_previous_buffer"
+2020-07-30 18:49:47		       -: jump to first buffer number
+2020-07-30 18:49:47		       +: jump to last buffer number
+2020-07-30 18:49:47		    name: jump to buffer by (partial) name
+2020-07-30 18:49:47		Examples:
+2020-07-30 18:49:47		  clear current buffer:
+2020-07-30 18:49:47		    /buffer clear
+2020-07-30 18:49:47		  move buffer to number 5:
+2020-07-30 18:49:47		    /buffer move 5
+2020-07-30 18:49:47		  swap buffer 1 with 3:
+2020-07-30 18:49:47		    /buffer swap 1 3
+2020-07-30 18:49:47		  swap buffer #weechat with current buffer:
+2020-07-30 18:49:47		    /buffer swap #weechat
+2020-07-30 18:49:47		  jump on #chan1, #chan2, #chan3 and loop:
+2020-07-30 18:49:47		    /buffer cycle #chan1 #chan2 #chan3
+2020-07-30 18:49:47		  merge with core buffer:
+2020-07-30 18:49:47		    /buffer merge 1
+2020-07-30 18:49:47		  merge with #weechat buffer:
+2020-07-30 18:49:47		    /buffer merge #weechat
+2020-07-30 18:49:47		  unmerge buffer:
+2020-07-30 18:49:47		    /buffer unmerge
+2020-07-30 18:49:47		  close current buffer:
+2020-07-30 18:49:47		    /buffer close
+2020-07-30 18:49:47		  close buffers 5 to 7:
+2020-07-30 18:49:47		    /buffer close 5-7
+2020-07-30 18:49:47		  jump to #weechat:
+2020-07-30 18:49:47		    /buffer #weechat
+2020-07-30 18:49:47		  jump to next buffer:
+2020-07-30 18:49:47		    /buffer +1
+2020-07-30 18:49:47		  jump to last buffer number:
+2020-07-30 18:49:47		    /buffer +
+2020-07-30 18:51:07		[core]  /window  list
+2020-07-30 18:51:07		                 -1|+1|b#|up|down|left|right [-window <number>]
+2020-07-30 18:51:07		                 <number>
+2020-07-30 18:51:07		                 splith|splitv [-window <number>] [<pct>]
+2020-07-30 18:51:07		                 resize [-window <number>] [h|v][+|-]<pct>
+2020-07-30 18:51:07		                 balance
+2020-07-30 18:51:07		                 merge [-window <number>] [all]
+2020-07-30 18:51:07		                 close [-window <number>]
+2020-07-30 18:51:07		                 page_up|page_down [-window <number>]
+2020-07-30 18:51:07		                 refresh
+2020-07-30 18:51:07		                 scroll [-window <number>] [+|-]<value>[s|m|h|d|M|y]
+2020-07-30 18:51:07		                 scroll_horiz [-window <number>] [+|-]<value>[%]
+2020-07-30 18:51:07		                 scroll_up|scroll_down|scroll_top|scroll_bottom|scroll_beyond_end|scroll_previous_highlight|scroll_next_highlight|scroll_unread [-window <number>]
+2020-07-30 18:51:07		                 swap [-window <number>] [up|down|left|right]
+2020-07-30 18:51:07		                 zoom [-window <number>]
+2020-07-30 18:51:07		                 bare [<delay>]
+2020-07-30 18:51:07		manage windows
+2020-07-30 18:51:07		         list: list opened windows (without argument, this list is displayed)
+2020-07-30 18:51:07		           -1: jump to previous window
+2020-07-30 18:51:07		           +1: jump to next window
+2020-07-30 18:51:07		           b#: jump to next window displaying buffer number #
+2020-07-30 18:51:07		           up: switch to window above current one
+2020-07-30 18:51:07		         down: switch to window below current one
+2020-07-30 18:51:07		         left: switch to window on the left
+2020-07-30 18:51:07		        right: switch to window on the right
+2020-07-30 18:51:07		       number: window number (see /window list)
+2020-07-30 18:51:07		       splith: split current window horizontally (to undo: /window merge)
+2020-07-30 18:51:07		       splitv: split current window vertically (to undo: /window merge)
+2020-07-30 18:51:07		       resize: resize window size, new size is <pct> percentage of parent window
+2020-07-30 18:51:07		               if "h" or "v" is specified, the resize affects the nearest parent window with a split of this type (horizontal/vertical)
+2020-07-30 18:51:07		      balance: balance the sizes of all windows
+2020-07-30 18:51:07		        merge: merge window with another (all = keep only one window)
+2020-07-30 18:51:07		        close: close window
+2020-07-30 18:51:07		      page_up: scroll one page up
+2020-07-30 18:51:07		    page_down: scroll one page down
+2020-07-30 18:51:07		      refresh: refresh screen
+2020-07-30 18:51:07		       scroll: scroll a number of lines (+/-N) or with time: s=seconds, m=minutes, h=hours, d=days, M=months, y=years
+2020-07-30 18:51:07		 scroll_horiz: scroll horizontally a number of columns (+/-N) or percentage of window size (this scrolling is possible only on buffers with free content)
+2020-07-30 18:51:07		    scroll_up: scroll a few lines up
+2020-07-30 18:51:07		  scroll_down: scroll a few lines down
+2020-07-30 18:51:07		   scroll_top: scroll to top of buffer
+2020-07-30 18:51:07		scroll_bottom: scroll to bottom of buffer
+2020-07-30 18:51:07		scroll_beyond_end: scroll beyond the end of buffer
+2020-07-30 18:51:07		scroll_previous_highlight: scroll to previous highlight
+2020-07-30 18:51:07		scroll_next_highlight: scroll to next highlight
+2020-07-30 18:51:07		scroll_unread: scroll to unread marker
+2020-07-30 18:51:07		         swap: swap buffers of two windows (with optional direction for target window)
+2020-07-30 18:51:07		         zoom: zoom on window
+2020-07-30 18:51:07		         bare: toggle bare display (with optional delay in seconds for automatic return to standard display mode)
+2020-07-30 18:51:07		For splith and splitv, pct is a percentage which represents size of new window, computed with current window as size reference. For example 25 means create a new window with size = current_size / 4
+2020-07-30 18:51:07		Examples:
+2020-07-30 18:51:07		  jump to window displaying buffer #1:
+2020-07-30 18:51:07		    /window b1
+2020-07-30 18:51:07		  scroll 2 lines up:
+2020-07-30 18:51:07		    /window scroll -2
+2020-07-30 18:51:07		  scroll 2 days up:
+2020-07-30 18:51:07		    /window scroll -2d
+2020-07-30 18:51:07		  scroll to beginning of current day:
+2020-07-30 18:51:07		    /window scroll -d
+2020-07-30 18:51:07		  zoom on window #2:
+2020-07-30 18:51:07		    /window zoom -window 2
+2020-07-30 18:51:07		  split window horizontally using 30% of space for the window on top:
+2020-07-30 18:51:07		    /window splith 30
+2020-07-30 18:51:07		  resize window to 75% of the parent window size:
+2020-07-30 18:51:07		    /window resize 75
+2020-07-30 18:51:07		  resize vertical split, add 10% in size:
+2020-07-30 18:51:07		    /window resize v+10
+2020-07-30 18:51:07		  remove the split, keep the current window:
+2020-07-30 18:51:07		    /window merge
+2020-07-30 18:51:07		  close the current window:
+2020-07-30 18:51:07		    /window close
+2020-07-30 18:51:07		  enable bare display for 2 seconds:
+2020-07-30 18:51:07		    /window bare 2
+2020-07-30 18:52:48		[core]  /set  [<option> [<value>]]
+2020-07-30 18:52:48		              diff [<option> [<option>...]]
+2020-07-30 18:52:48		              env [<variable> [<value>]]
+2020-07-30 18:52:48		set config options and environment variables
+2020-07-30 18:52:48		option: name of an option (wildcard "*" is allowed to list options, if no value is specified)
+2020-07-30 18:52:48		 value: new value for option, according to type:
+2020-07-30 18:52:48		          boolean: on, off or toggle
+2020-07-30 18:52:48		          integer: number, ++number or --number
+2020-07-30 18:52:48		           string: any string ("" for empty string)
+2020-07-30 18:52:48		            color: color name, ++number or --number
+2020-07-30 18:52:48		        Note: for all types, you can use null to remove option value (undefined value). This works only for some special plugin variables.
+2020-07-30 18:52:48		  diff: display only changed options
+2020-07-30 18:52:48		   env: display or set an environment variable (use value "" to unset a variable)
+2020-07-30 18:52:48		Examples:
+2020-07-30 18:52:48		  display options about highlight:
+2020-07-30 18:52:48		    /set *highlight*
+2020-07-30 18:52:48		  add a word to highlight:
+2020-07-30 18:52:48		    /set weechat.look.highlight "word"
+2020-07-30 18:52:48		  display changed options:
+2020-07-30 18:52:48		    /set diff
+2020-07-30 18:52:48		  display changed options in irc plugin:
+2020-07-30 18:52:48		    /set diff irc.*
+2020-07-30 18:52:48		  display value of environment variable LANG:
+2020-07-30 18:52:48		    /set env LANG
+2020-07-30 18:52:48		  set environment variable LANG and use it:
+2020-07-30 18:52:48		    /set env LANG fr_FR.UTF-8
+2020-07-30 18:52:48		    /upgrade
+2020-07-30 18:52:48		  unset environment variable ABC:
+2020-07-30 18:52:48		    /set env ABC ""
+2020-07-30 18:53:57		Option changed: buflist.look.enabled = off  (default: on)
+2020-07-30 18:54:34		Option changed: fset.color.index = black  (default: cyan)
+2020-07-30 18:55:14		Option changed: fset.color.index = gray  (default: cyan)
+2020-07-30 18:55:26		Option changed: fset.color.index = black  (default: cyan)
+2020-07-30 18:55:33		Option changed: fset.color.index_selected = gray  (default: lightcyan)
+2020-07-30 18:55:49		Option changed: fset.color.line_marked_bg1 = black  (default: default)
+2020-07-30 18:56:21		Option changed: fset.color.line_marked_bg2 = black  (default: default)
+2020-07-30 18:56:57		Option changed: fset.color.title_count_options = black  (default: cyan)
+2020-07-30 18:57:08		Option changed: fset.color.title_current_option = gray  (default: lightcyan)
+2020-07-30 18:57:49		Option changed: irc.color.input_nick = gray  (default: lightcyan)
+2020-07-30 18:58:05		Option changed: irc.color.message_account = black  (default: cyan)
+2020-07-30 18:58:32		Option changed: irc.color.topic_current = black  (default: default)
+2020-07-30 18:58:54		Option changed: irc.look.color_nicks_in_names = on  (default: off)
+2020-07-30 18:59:04		Option changed: irc.look.color_nicks_in_nicklist = on  (default: off)
+2020-07-30 19:00:12		Option changed: relay.color.client = gray  (default: cyan)
+2020-07-30 19:02:51		Option changed: weechat.bar.nicklist.hidden = on  (default: off)
+2020-07-30 19:04:02		Option changed: buflist.look.enabled = on
+2020-07-30 19:04:32		Option changed: weechat.bar.buflist.filling_top_bottom = columns_horizontal  (default: columns_vertical)
+2020-07-30 19:04:48		Option changed: weechat.bar.buflist.filling_left_right = horizontal  (default: vertical)
+2020-07-30 19:05:04		Option changed: weechat.bar.buflist.position = bottom  (default: left)
+2020-07-30 19:06:24		Option changed: buflist.look.nick_prefix = on  (default: off)
+2020-07-30 19:08:27		Option changed: weechat.look.buffer_time_format = "%H:%M"  (default: "%H:%M:%S")
+2020-07-30 19:09:04		Option changed: irc.color.input_nick = black  (default: lightcyan)
+2020-07-30 19:09:43		Option changed: buflist.look.nick_prefix_empty = off  (default: on)
+2020-07-30 19:10:08		Option changed: irc.look.nick_mode_empty = on  (default: off)
+2020-07-30 19:10:43		Option changed: weechat.color.chat_nick_self = gray  (default: white)
+2020-07-30 19:11:34		Option changed: weechat.color.chat_nick_self = black  (default: white)
+2020-07-30 19:16:50		Option changed: weechat.bar.input.items = " "  (default: "[input_prompt]+(away),[input_search],[input_paste],input_text")
+2020-07-30 19:18:57		Option changed: weechat.bar.input.items = "input_text"  (default: "[input_prompt]+(away),[input_search],[input_paste],input_text")
+2020-07-30 20:12:42		Option changed: weechat.bar.input.items = "[buffer_name]+[input_prompt]+(away),[input_search],[input_paste],input_text"  (default: "[input_prompt]+(away),[input_search],[input_paste],input_text")
+2020-07-30 20:13:58		Option changed: weechat.bar.input.items = "[buffer_name]+[input_prompt]+input_text"  (default: "[input_prompt]+(away),[input_search],[input_paste],input_text")
+2020-07-30 20:14:43		Option changed: weechat.bar.input.items = "[buffer_name]input_name,input_text"  (default: "[input_prompt]+(away),[input_search],[input_paste],input_text")
+2020-07-30 20:17:21		Option changed: weechat.bar.input.items = "buffer_name | input_text »"  (default: "[input_prompt]+(away),[input_search],[input_paste],input_text")
+2020-07-30 20:17:52		Option changed: weechat.bar.input.items = "input_text"  (default: "[input_prompt]+(away),[input_search],[input_paste],input_text")
+2020-07-30 20:18:39		Option changed: weechat.bar.input.items = "buffer_name,|,input_name,-, input_text »"  (default: "[input_prompt]+(away),[input_search],[input_paste],input_text")
+2020-07-30 20:19:36		Option changed: weechat.bar.input.items = "buffer_name,|,input_name, input_text, »"  (default: "[input_prompt]+(away),[input_search],[input_paste],input_text")
+2020-07-30 20:20:05		Option changed: weechat.bar.input.items = "buffer_name,|,input_text"  (default: "[input_prompt]+(away),[input_search],[input_paste],input_text")
+2020-07-30 20:21:41		Option changed: weechat.bar.input.items = "buffer_name,|,»,input_text"  (default: "[input_prompt]+(away),[input_search],[input_paste],input_text")
+2020-07-30 20:22:05	=!=	Error: failed to set option "irc.color.input_nick"
+2020-07-30 20:22:48		Option changed: irc.color.input_nick = darkgray  (default: lightcyan)
+2020-07-30 20:23:07		Option changed: irc.color.input_nick = lightred  (default: lightcyan)
+2020-07-30 20:23:21		Option changed: irc.color.input_nick = darkgray  (default: lightcyan)
+2020-07-30 20:24:30		Option changed: weechat.bar.input.separator = on  (default: off)
+2020-07-30 20:25:14		Option changed: weechat.bar.input.color_delim = black  (default: cyan)
+2020-07-30 20:28:13		Option changed: weechat.color.chat_nick_self = darkgray  (default: white)
+2020-07-30 20:28:57	=!=	Option ""${color:black},"" not found (tip: you can use wildcard "*" in option to see a sublist)
+2020-07-30 20:29:16	=!=	Option ""black"" not found (tip: you can use wildcard "*" in option to see a sublist)
+2020-07-30 20:29:27		Option changed: weechat.bar.buflist.separator = off  (default: on)
+2020-07-30 20:29:55		Option changed: weechat.color.separator = black  (default: blue)
+2020-07-30 20:30:04		Option changed: weechat.color.separator = darkgray  (default: blue)
+2020-07-30 20:30:39		Option changed: weechat.bar.title.color_bg = black  (default: blue)
+2020-07-30 20:32:21		Option changed: weechat.bar.status.hidden = on  (default: off)
+2020-07-30 20:34:15		Option changed: buflist.look.enabled = off  (default: on)
+2020-07-30 23:31:21		Options reloaded from sec.conf
+2020-07-30 23:31:21		Options reloaded from weechat.conf
+2020-07-30 23:31:21		Options reloaded from plugins.conf
+2020-07-30 23:31:21		Options reloaded from charset.conf
+2020-07-30 23:31:22		Options reloaded from logger.conf
+2020-07-30 23:31:22		Options reloaded from exec.conf
+2020-07-30 23:31:22		Options reloaded from trigger.conf
+2020-07-30 23:31:22		Options reloaded from alias.conf
+2020-07-30 23:31:22		Options reloaded from buflist.conf
+2020-07-30 23:31:22		Options reloaded from fifo.conf
+2020-07-30 23:31:22		Options reloaded from xfer.conf
+2020-07-30 23:31:22		Options reloaded from irc.conf
+2020-07-30 23:31:22		Options reloaded from relay.conf
+2020-07-30 23:31:22		Options reloaded from lua.conf
+2020-07-30 23:31:22		Options reloaded from python.conf
+2020-07-30 23:31:22		Options reloaded from guile.conf
+2020-07-30 23:31:22		Options reloaded from perl.conf
+2020-07-30 23:31:22		Options reloaded from tcl.conf
+2020-07-30 23:31:23		Options reloaded from script.conf
+2020-07-30 23:31:23		Options reloaded from fset.conf
+2020-07-31 05:45:28		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, lua, perl, python, relay, script, tcl, trigger, xfer
+2020-07-31 05:47:18		[fset]  /fset  -bar
+2020-07-31 05:47:18		               -refresh
+2020-07-31 05:47:18		               -up|-down [<number>]
+2020-07-31 05:47:18		               -left|-right [<percent>]
+2020-07-31 05:47:18		               -go <line>|end
+2020-07-31 05:47:18		               -toggle
+2020-07-31 05:47:18		               -add [<value>]
+2020-07-31 05:47:18		               -reset
+2020-07-31 05:47:18		               -unset
+2020-07-31 05:47:18		               -set
+2020-07-31 05:47:18		               -setnew
+2020-07-31 05:47:18		               -append
+2020-07-31 05:47:18		               -mark
+2020-07-31 05:47:18		               -format
+2020-07-31 05:47:18		               -export [-help|-nohelp] <filename>
+2020-07-31 05:47:18		               <filter>
+2020-07-31 05:47:18		fast set WeeChat and plugins options
+2020-07-31 05:47:18		       -bar: add the help bar
+2020-07-31 05:47:18		   -refresh: refresh list of options, then whole screen (command: /window refresh)
+2020-07-31 05:47:18		        -up: move the selected line up by "number" lines
+2020-07-31 05:47:18		      -down: move the selected line down by "number" lines
+2020-07-31 05:47:18		      -left: scroll the fset buffer by "percent" of width on the left
+2020-07-31 05:47:18		     -right: scroll the fset buffer by "percent" of width on the right
+2020-07-31 05:47:18		        -go: select a line by number, first line number is 0 ("end" to select the last line)
+2020-07-31 05:47:18		    -toggle: toggle the boolean value
+2020-07-31 05:47:18		       -add: add "value" (which can be a negative number) for integers and colors, set/append to value for other types (set for a negative value, append for a positive value)
+2020-07-31 05:47:18		     -reset: reset the value of option
+2020-07-31 05:47:18		     -unset: unset the option
+2020-07-31 05:47:18		       -set: add the /set command in input to edit the value of option (move the cursor at the beginning of value)
+2020-07-31 05:47:18		    -setnew: add the /set command in input to edit a new value for the option
+2020-07-31 05:47:18		    -append: add the /set command to append something in the value of option (move the cursor at the end of value)
+2020-07-31 05:47:18		      -mark: toggle mark
+2020-07-31 05:47:18		    -format: switch to the next available format
+2020-07-31 05:47:18		    -export: export the options and values displayed in a file (each line has format: "/set name value" or "/unset name")
+2020-07-31 05:47:18		      -help: force writing of help on options in exported file (see /help fset.look.export_help_default)
+2020-07-31 05:47:18		    -nohelp: do not write help on options in exported file (see /help fset.look.export_help_default)
+2020-07-31 05:47:18		     filter: set a new filter to see only matching options (this filter can be used as input in fset buffer as well); allowed formats are:
+2020-07-31 05:47:18		               *       show all options (no filter)
+2020-07-31 05:47:18		               xxx     show only options with "xxx" in name
+2020-07-31 05:47:18		               f:xxx   show only configuration file "xxx"
+2020-07-31 05:47:18		               t:xxx   show only type "xxx" (bool/int/str/col)
+2020-07-31 05:47:18		               d       show only changed options
+2020-07-31 05:47:18		               d:xxx   show only changed options with "xxx" in name
+2020-07-31 05:47:18		               d=xxx   show only changed options with "xxx" in value
+2020-07-31 05:47:18		               d==xxx  show only changed options with exact value "xxx"
+2020-07-31 05:47:18		               h=xxx   show only options with "xxx" in description (translated)
+2020-07-31 05:47:18		               he=xxx  show only options with "xxx" in description (in English)
+2020-07-31 05:47:18		               =xxx    show only options with "xxx" in value
+2020-07-31 05:47:18		               ==xxx   show only options with exact value "xxx"
+2020-07-31 05:47:18		               c:xxx   show only options matching the evaluated condition "xxx", using following variables: file, section, option, name, parent_name, type, type_en, type_short (bool/int/str/col), type_tiny (b/i/s/c), default_value, default_value_undef, value, quoted_value, value_undef, value_changed, parent_value, min, max, description, description2, description_en, description_en2, string_values
+2020-07-31 05:47:18		The lines with options are displayed using string evaluation (see /help eval for the format), with these options:
+2020-07-31 05:47:18		  - fset.format.option1: first format for an option
+2020-07-31 05:47:18		  - fset.format.option2: second format for an option
+2020-07-31 05:47:18		The following variables can be used in these options:
+2020-07-31 05:47:18		  - option data, with color and padded by spaces on the right:
+2020-07-31 05:47:18		    - ${file}: configuration file (for example "weechat" or "irc")
+2020-07-31 05:47:18		    - ${section}: section
+2020-07-31 05:47:18		    - ${option}: option name
+2020-07-31 05:47:18		    - ${name}: full option name (file.section.option)
+2020-07-31 05:47:18		    - ${parent_name}: parent option name
+2020-07-31 05:47:18		    - ${type}: option type (translated)
+2020-07-31 05:47:18		    - ${type_en}: option type (in English)
+2020-07-31 05:47:18		    - ${type_short}: short option type (bool/int/str/col)
+2020-07-31 05:47:18		    - ${type_tiny}: tiny option type (b/i/s/c)
+2020-07-31 05:47:18		    - ${default_value}: option default value
+2020-07-31 05:47:18		    - ${default_value_undef}: "1" if default value is null, otherwise "0"
+2020-07-31 05:47:18		    - ${value}: option value
+2020-07-31 05:47:18		    - ${value_undef}: "1" if value is null, otherwise "0"
+2020-07-31 05:47:18		    - ${value_changed}: "1" if value is different from default value, otherwise "0"
+2020-07-31 05:47:18		    - ${value2}: option value, with inherited value if null
+2020-07-31 05:47:18		    - ${parent_value}: parent option value
+2020-07-31 05:47:18		    - ${min}: min value
+2020-07-31 05:47:18		    - ${max}: max value
+2020-07-31 05:47:18		    - ${description}: option description (translated)
+2020-07-31 05:47:18		    - ${description2}: option description (translated), "(no description)" (translated) if there's no description
+2020-07-31 05:47:18		    - ${description_en}: option description (in English)
+2020-07-31 05:47:18		    - ${description_en2}: option description (in English), "(no description)" if there's no description
+2020-07-31 05:47:18		    - ${string_values}: string values allowed for set of an integer option using strings
+2020-07-31 05:47:18		    - ${marked}: "1" if option is marked, otherwise "0"
+2020-07-31 05:47:18		    - ${index}: index of option in list
+2020-07-31 05:47:18		  - option data, with color but no spaces:
+2020-07-31 05:47:18		    - same names prefixed by underscore, for example: ${_name}, ${_type}, ...
+2020-07-31 05:47:18		  - option data, raw format (no colors/spaces):
+2020-07-31 05:47:18		    - same names prefixed by two underscores, for example: ${__name}, ${__type}, ...
+2020-07-31 05:47:18		  - option data, only spaces:
+2020-07-31 05:47:18		    - same names prefixed with "empty_", for example: ${empty_name}, ${empty_type}
+2020-07-31 05:47:18		  - other data:
+2020-07-31 05:47:18		    - ${selected_line}: "1" if the line is selected, otherwise "0"
+2020-07-31 05:47:18		    - ${newline}: insert a new line at point, so the option is displayed on multiple lines
+2020-07-31 05:47:18		Keys and input to move in on fset buffer:
+2020-07-31 05:47:18		  up                        move one line up
+2020-07-31 05:47:18		  down                      move one line down
+2020-07-31 05:47:18		  pgup                      move one page up
+2020-07-31 05:47:18		  pgdn                      move one page down
+2020-07-31 05:47:18		  alt-home          <<      move to first line
+2020-07-31 05:47:18		  alt-end           >>      move to last line
+2020-07-31 05:47:18		  F11               <       scroll horizontally on the left
+2020-07-31 05:47:18		  F12               >       scroll horizontally on the right
+2020-07-31 05:47:18		Keys and input to set options on fset buffer:
+2020-07-31 05:47:18		  alt+space         t       toggle boolean value
+2020-07-31 05:47:18		  alt+'-'           -       subtract 1 from value for integer/color, set value for other types
+2020-07-31 05:47:18		  alt+'+'           +       add 1 to value for integer/color, append to value for other types
+2020-07-31 05:47:18		  alt+f, alt+r      r       reset value
+2020-07-31 05:47:18		  alt+f, alt+u      u       unset value
+2020-07-31 05:47:18		  alt+enter         s       set value
+2020-07-31 05:47:18		  alt+f, alt+n      n       set new value
+2020-07-31 05:47:18		  alt+f, alt+a      a       append to value
+2020-07-31 05:47:18		  alt+','           ,       mark/unmark option
+2020-07-31 05:47:18		  shift+up                  move one line up and mark/unmark option
+2020-07-31 05:47:18		  shift+down                mark/unmark option and move one line down
+2020-07-31 05:47:18		                    m:xxx   mark options displayed that are matching filter "xxx" (any filter on option or value is allowed, see filters above)
+2020-07-31 05:47:18		                    u:xxx   unmark options displayed that are matching filter "xxx" (any filter on option or value is allowed, see filters above)
+2020-07-31 05:47:18		Other keys and input on fset buffer:
+2020-07-31 05:47:18		  ctrl+L                    refresh options and whole screen (command: /fset -refresh)
+2020-07-31 05:47:18		                    $       refresh options (keep marked options)
+2020-07-31 05:47:18		                    $$      refresh options (unmark all options)
+2020-07-31 05:47:18		  alt+p             p       toggle plugin description options (plugins.desc.*)
+2020-07-31 05:47:18		  alt+v             v       toggle help bar
+2020-07-31 05:47:18		                    s:x,y   sort options by fields x,y (see /help fset.look.sort)
+2020-07-31 05:47:18		                    s:      reset sort to its default value (see /help fset.look.sort)
+2020-07-31 05:47:18		                    w:xxx   export options in file "xxx"
+2020-07-31 05:47:18		                    w-:xxx  export options in file "xxx" without help
+2020-07-31 05:47:18		                    w+:xxx  export options in file "xxx" with help
+2020-07-31 05:47:18		  ctrl+X            x       switch the format used to display options
+2020-07-31 05:47:18		                    q       close fset buffer
+2020-07-31 05:47:18		Mouse actions on fset buffer:
+2020-07-31 05:47:18		  wheel up/down                   move line up/down
+2020-07-31 05:47:18		  left button                     move line here
+2020-07-31 05:47:18		  right button                    toggle boolean (on/off) or edit the option value
+2020-07-31 05:47:18		  right button + drag left/right  increase/decrease value for integer/color, set/append to value for other types
+2020-07-31 05:47:18		  right button + drag up/down     mark/unmark multiple options
+2020-07-31 05:47:18		Note: if input has one or more leading spaces, the following text is interpreted as a filter, without the spaces. For example " q" searches all options with "q" inside name while "q" closes the fset buffer.
+2020-07-31 05:47:18		Examples:
+2020-07-31 05:47:18		  show IRC options changed:
+2020-07-31 05:47:18		    /fset d:irc.*
+2020-07-31 05:47:18		  show all options with "nicklist" in name:
+2020-07-31 05:47:18		    /fset nicklist
+2020-07-31 05:47:18		  show all values which contain "red":
+2020-07-31 05:47:18		    /fset =red
+2020-07-31 05:47:18		  show all values which are exactly "red":
+2020-07-31 05:47:18		    /fset ==red
+2020-07-31 05:47:18		  show all integer options in irc plugin:
+2020-07-31 05:47:18		    /fset c:${file} == irc && ${type_en} == integer
+2020-07-31 05:49:06		Option changed: buflist.look.enabled = off  (default: on)
+2020-07-31 05:49:22		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, lua, perl, python, relay, script, tcl, trigger, xfer
+2020-07-31 05:51:32		Option changed: weechat.bar.status.color_bg = black  (default: blue)
+2020-07-31 05:52:14		Option changed: weechat.bar.status.color_delim = black  (default: cyan)
+2020-07-31 05:52:46		Option changed: weechat.bar.status.color_delim = yellow  (default: cyan)
+2020-07-31 05:53:30		Option changed: weechat.bar.status.hidden = on  (default: off)
+2020-07-31 05:54:14		Option changed: irc.color.topic_current = black  (default: default)
+2020-07-31 05:55:57		Option changed: weechat.bar.title.color_bg = black  (default: blue)
+2020-07-31 05:56:39		Option changed: weechat.bar.nicklist.hidden = on  (default: off)
+2020-07-31 05:57:10		Option changed: fset.color.line_selected_bg1 = black  (default: blue)
+2020-07-31 05:57:55		Option changed: irc.color.input_nick = darkgray  (default: lightcyan)
+2020-07-31 05:58:46		Option changed: weechat.bar.input.items = "[input_prompt],input_text"  (default: "[input_prompt]+(away),[input_search],[input_paste],input_text")
+2020-07-31 05:59:13		Option changed: weechat.bar.input.separator = on  (default: off)
+2020-07-31 05:59:38		Option changed: weechat.bar.input.color_delim = black  (default: cyan)
+2020-07-31 06:00:12		Option changed: weechat.color.separator = black  (default: blue)
+2020-07-31 06:00:49		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, lua, perl, python, relay, script, tcl, trigger, xfer
+2020-07-31 06:01:50		Option changed: irc.look.item_nick_modes = off  (default: on)
+2020-07-31 06:03:20		Option changed: weechat.bar.input.items = "input_prompt,»,input_text"  (default: "[input_prompt]+(away),[input_search],[input_paste],input_text")
+2020-07-31 06:03:54		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, lua, perl, python, relay, script, tcl, trigger, xfer
+2020-07-31 06:09:41		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, lua, perl, python, relay, script, tcl, trigger, xfer
+2020-07-31 06:12:50		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, lua, perl, python, relay, script, tcl, trigger, xfer
+2020-07-31 23:49:19		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, lua, perl, python, relay, script, tcl, trigger, xfer
+2020-08-01 12:04:06		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, lua, perl, python, relay, script, tcl, trigger, xfer
+2020-08-01 12:05:09		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, lua, perl, python, relay, script, tcl, trigger, xfer
+2020-08-01 17:51:42		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, lua, perl, python, relay, script, tcl, trigger, xfer
+2020-08-01 21:24:25		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, lua, perl, python, relay, script, tcl, trigger, xfer
+2020-08-01 21:25:47		Option changed: weechat.bar.title.hidden = on  (default: off)
+2020-08-01 21:57:35		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, lua, perl, python, relay, script, tcl, trigger, xfer
+2020-08-01 23:07:27		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, lua, perl, python, relay, script, tcl, trigger, xfer
+2020-08-02 07:30:51		Option changed: weechat.look.buffer_time_format = "%H:%M"  (default: "%H:%M:%S")
+2020-08-02 07:31:18		Option changed: weechat.look.buffer_time_format = ""  (default: "%H:%M:%S")
+2020-08-02 07:38:23		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, lua, perl, python, relay, script, tcl, trigger, xfer
+2020-08-02 12:29:50		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, lua, perl, python, relay, script, tcl, trigger, xfer
+2020-08-02 18:36:18		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, lua, perl, python, relay, script, tcl, trigger, xfer
+2020-08-02 18:37:10		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, lua, perl, python, relay, script, tcl, trigger, xfer
+2020-08-03 05:46:14		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, lua, perl, python, relay, script, tcl, trigger, xfer
+2020-08-05 21:59:26		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, lua, perl, python, relay, script, tcl, trigger, xfer
+2020-08-07 15:49:23		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, lua, perl, python, relay, script, tcl, trigger, xfer
+2020-08-07 20:14:02		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, lua, perl, python, relay, script, tcl, trigger, xfer
+2020-08-09 09:18:28		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, lua, perl, python, relay, script, tcl, trigger, xfer
+2020-08-10 18:43:54		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, lua, perl, python, relay, script, tcl, trigger, xfer
+2020-08-10 19:40:34		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, lua, perl, python, relay, script, tcl, trigger, xfer
+2020-08-10 23:40:27		Options reloaded from sec.conf
+2020-08-10 23:40:27		Options reloaded from weechat.conf
+2020-08-10 23:40:27		Options reloaded from plugins.conf
+2020-08-10 23:40:27		Options reloaded from charset.conf
+2020-08-10 23:40:27		Options reloaded from logger.conf
+2020-08-10 23:40:27		Options reloaded from exec.conf
+2020-08-10 23:40:27		Options reloaded from trigger.conf
+2020-08-10 23:40:27		Options reloaded from alias.conf
+2020-08-10 23:40:27		Options reloaded from buflist.conf
+2020-08-10 23:40:27		Options reloaded from fifo.conf
+2020-08-10 23:40:27		Options reloaded from xfer.conf
+2020-08-10 23:40:27		Options reloaded from irc.conf
+2020-08-10 23:40:27		Options reloaded from relay.conf
+2020-08-10 23:40:27		Options reloaded from lua.conf
+2020-08-10 23:40:27		Options reloaded from python.conf
+2020-08-10 23:40:27		Options reloaded from guile.conf
+2020-08-10 23:40:27		Options reloaded from perl.conf
+2020-08-10 23:40:27		Options reloaded from tcl.conf
+2020-08-10 23:40:27		Options reloaded from script.conf
+2020-08-10 23:40:27		Options reloaded from fset.conf
+2020-08-11 23:38:13		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, perl, python, relay, script, tcl, trigger, xfer
+2020-08-12 22:06:40		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, perl, python, relay, script, tcl, trigger, xfer
+2020-08-13 17:51:05		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, perl, python, relay, script, tcl, trigger, xfer
+2020-08-13 21:20:10		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, perl, python, relay, script, tcl, trigger, xfer
+2020-08-13 21:34:03		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, perl, python, relay, script, tcl, trigger, xfer
+2020-08-13 21:42:32		Option changed: weechat.color.separator = white  (default: blue)
+2020-08-13 21:43:18		Option changed: irc.color.input_nick = white  (default: lightcyan)
+2020-08-13 21:44:04		Option changed: weechat.bar.input.items = "»,input_text"  (default: "[input_prompt]+(away),[input_search],[input_paste],input_text")
+2020-08-13 22:00:06		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, perl, python, relay, script, tcl, trigger, xfer
+2020-08-15 01:45:54		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, perl, python, relay, script, tcl, trigger, xfer
+2020-08-16 16:28:30		Option changed: weechat.color.chat_highlight = black  (default: yellow)
+2020-08-16 16:28:48		Option changed: weechat.color.chat_highlight_bg = blue  (default: magenta)
+2020-08-16 16:29:06		Option changed: weechat.color.chat_highlight_bg = white  (default: magenta)
+2020-08-16 16:29:30		Option changed: weechat.color.chat_highlight = white  (default: yellow)
+2020-08-16 16:29:44		Option changed: weechat.color.chat_highlight_bg = black  (default: magenta)
+2020-08-16 16:30:37		Option changed: weechat.color.chat_highlight_bg = gray  (default: magenta)
+2020-08-16 16:31:10		Option changed: weechat.color.chat_highlight_bg = black  (default: magenta)
+2020-08-16 21:35:01		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, perl, python, relay, script, tcl, trigger, xfer
+2020-08-17 18:40:10		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, perl, python, relay, script, tcl, trigger, xfer
+2020-08-17 23:18:39		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, perl, python, relay, script, tcl, trigger, xfer
+2020-08-18 01:18:27		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, perl, python, relay, script, tcl, trigger, xfer
+2020-08-18 19:07:17		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, perl, python, relay, script, tcl, trigger, xfer
+2020-08-18 20:00:50		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, perl, python, relay, script, tcl, trigger, xfer
+2020-08-20 18:38:20		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, perl, python, relay, script, tcl, trigger, xfer
+2020-08-20 18:53:46		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, perl, python, relay, script, tcl, trigger, xfer
+2020-08-20 21:41:10		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, perl, python, relay, script, tcl, trigger, xfer
+2020-08-21 17:11:38		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, perl, python, relay, script, tcl, trigger, xfer
+2020-08-21 20:42:42		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, perl, python, relay, script, tcl, trigger, xfer
+2020-08-21 23:06:34		Option changed: weechat.look.buffer_time_format = "%H:%M"  (default: "%H:%M:%S")
+2020-08-22 19:50:14		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, perl, python, relay, script, tcl, trigger, xfer
+2020-08-25 18:43:07		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, perl, python, relay, script, tcl, trigger, xfer
+2020-08-29 13:00:23		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, perl, python, relay, script, tcl, trigger, xfer
+2020-08-29 18:08:20		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, perl, python, relay, script, tcl, trigger, xfer
+2020-08-29 18:23:01		Options reloaded from sec.conf
+2020-08-29 18:23:01		Options reloaded from weechat.conf
+2020-08-29 18:23:01		Options reloaded from plugins.conf
+2020-08-29 18:23:01		Options reloaded from charset.conf
+2020-08-29 18:23:01		Options reloaded from logger.conf
+2020-08-29 18:23:01		Options reloaded from exec.conf
+2020-08-29 18:23:01		Options reloaded from trigger.conf
+2020-08-29 18:23:01		Options reloaded from alias.conf
+2020-08-29 18:23:01		Options reloaded from buflist.conf
+2020-08-29 18:23:01		Options reloaded from fifo.conf
+2020-08-29 18:23:01		Options reloaded from xfer.conf
+2020-08-29 18:23:01		Options reloaded from irc.conf
+2020-08-29 18:23:01		Options reloaded from relay.conf
+2020-08-29 18:23:01		Options reloaded from python.conf
+2020-08-29 18:23:01		Options reloaded from tcl.conf
+2020-08-29 18:23:01		Options reloaded from guile.conf
+2020-08-29 18:23:01		Options reloaded from perl.conf
+2020-08-29 18:23:01		Options reloaded from script.conf
+2020-08-29 18:23:01		Options reloaded from fset.conf
+2020-08-29 18:40:32		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, perl, python, relay, script, tcl, trigger, xfer
+2020-08-30 15:55:19		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, perl, python, relay, script, trigger, xfer
+2020-08-30 18:42:30		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, perl, python, relay, script, trigger, xfer
+2020-08-30 21:43:26		Options reloaded from sec.conf
+2020-08-30 21:43:26		Options reloaded from weechat.conf
+2020-08-30 21:43:26		Options reloaded from plugins.conf
+2020-08-30 21:43:26		Options reloaded from charset.conf
+2020-08-30 21:43:26		Options reloaded from logger.conf
+2020-08-30 21:43:26		Options reloaded from exec.conf
+2020-08-30 21:43:26		Options reloaded from trigger.conf
+2020-08-30 21:43:26		Options reloaded from alias.conf
+2020-08-30 21:43:26		Options reloaded from buflist.conf
+2020-08-30 21:43:26		Options reloaded from fifo.conf
+2020-08-30 21:43:26		Options reloaded from xfer.conf
+2020-08-30 21:43:26		Options reloaded from irc.conf
+2020-08-30 21:43:26		Options reloaded from relay.conf
+2020-08-30 21:43:26		Options reloaded from perl.conf
+2020-08-30 21:43:26		Options reloaded from guile.conf
+2020-08-30 21:43:26		Options reloaded from python.conf
+2020-08-30 21:43:26		Options reloaded from script.conf
+2020-08-30 21:43:26		Options reloaded from fset.conf
+2020-08-30 22:02:27		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, perl, python, relay, script, trigger, xfer
+2020-09-14 20:24:26		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, perl, python, relay, script, trigger, xfer
+2020-09-14 23:04:25		Options reloaded from sec.conf
+2020-09-14 23:04:25		Options reloaded from weechat.conf
+2020-09-14 23:04:25		Options reloaded from plugins.conf
+2020-09-14 23:04:25		Options reloaded from charset.conf
+2020-09-14 23:04:25		Options reloaded from logger.conf
+2020-09-14 23:04:25		Options reloaded from exec.conf
+2020-09-14 23:04:25		Options reloaded from trigger.conf
+2020-09-14 23:04:25		Options reloaded from alias.conf
+2020-09-14 23:04:25		Options reloaded from buflist.conf
+2020-09-14 23:04:25		Options reloaded from fifo.conf
+2020-09-14 23:04:25		Options reloaded from xfer.conf
+2020-09-14 23:04:25		Options reloaded from irc.conf
+2020-09-14 23:04:25		Options reloaded from relay.conf
+2020-09-14 23:04:25		Options reloaded from perl.conf
+2020-09-14 23:04:25		Options reloaded from guile.conf
+2020-09-14 23:04:25		Options reloaded from python.conf
+2020-09-14 23:04:25		Options reloaded from script.conf
+2020-09-14 23:04:25		Options reloaded from fset.conf
+2020-09-21 19:20:51		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, perl, python, relay, script, trigger, xfer
+2020-09-22 00:34:03		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, perl, python, relay, script, trigger, xfer

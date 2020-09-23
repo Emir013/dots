@@ -1,0 +1,108 @@
+*.font:xft:DejaVu Sans Mono:pixelsize=14
+*.boldFont:xft:DejaVu Sans Mono:pixelsize=14
+
+! special
+*.foreground:   #ccada3
+*.background:   #1a2b3c
+*.cursorColor:  #ccada3
+
+! black
+*.color0:       #31363c
+*.color8:       #31363c
+
+! red
+*.color1:       #e09887
+*.color9:       #e09887
+
+! green
+*.color2:       #7e9674
+*.color10:      #7e9674
+
+! yellow
+*.color3:       #e0c692
+*.color11:      #e0c692
+
+! blue
+*.color4:       #637d96
+*.color12:      #637d96
+
+! magenta
+*.color5:       #918aa5
+*.color13:      #918aa5
+
+! cyan
+*.color6:       #8aa59f
+*.color14:      #8aa59f
+
+! white
+*.color7:       #c8b1ac
+*.color15:      #c8b1ac
+/* ! special */
+/* *.foreground:   #b7afc7 */
+/* *.background:   #3e404f */
+/* *.cursorColor:  #b7afc7 */
+
+/* ! black */
+/* *.color0:       #43434d */
+/* *.color8:       #575865 */
+
+/* ! red */
+/* *.color1:       #855b5b */
+/* *.color9:       #9f6b6b */
+
+/* ! green */
+/* *.color2:       #7a8566 */
+/* *.color10:      #929f7f */
+
+/* ! yellow */
+/* *.color3:       #bda87e */
+/* *.color11:      #d6bf92 */
+
+/* ! blue */
+/* *.color4:       #72879c */
+/* *.color12:      #859fb5 */
+
+/* ! magenta */
+/* *.color5:       #867091 */
+/* *.color13:      #a48dab */
+
+/* ! cyan */
+/* *.color6:       #809696 */
+/* *.color14:      #93afac */
+
+/* ! white */
+/* *.color7:       #9595a1 */
+/* *.color15:      #a7b0ba */
+
+
+
+*.scrollBar: None
+*.fading: 0
+*.termName: rxvt-256color
+-- *.geometry: 100x25
+
+-- URxvt.perl-ext-common: ...,tabbed,...
+-- URxvt.tabbed.tabbar-fg: 13
+-- URxvt.tabbed.tabbar-bg: #181512
+-- URxvt.tabbed.tab-fg: 12
+-- URxvt.tabbed.tab-bg: #181512
+
+! *.letterSpace: -1
+*.lineSpace: 0
+*.internalBorder: 18
+*.cursorBlink: true
+*.cursorUnderline: false
+*.saveline: 2048
+*.depth: 24
+
+URxvt.perl-ext-common: default,matcher
+URxvt.url-launcher: /usr/bin/xdg-open
+URxvt.matcher.button: 1
+
+Xft.antialias: 	true
+Xft.hinting: true
+Xft.dpi: 109
+
+dmenu.foreground:	#859fb5 
+dmenu.selbackground:	#859fb5 
+dmenu.selforeground:	#3e404f
