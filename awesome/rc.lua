@@ -57,7 +57,7 @@ local function run_once(cmd_arr)
     end
 end
 
-run_once({ "urxvtd", "unclutter -root" }) -- entries must be separated by commas
+-- run_once({ "urxvtd", "unclutter -root" }) -- entries must be separated by commas
 
 -- This function implements the XDG autostart specification
 --[[
@@ -98,17 +98,17 @@ local browser      = os.getenv("BROWSER") or "firefox"
 local scrlocker    = "slock"
 
 awful.util.terminal = terminal
-awful.util.tagnames = { "1", "2", "3", "4" }
+awful.util.tagnames = { "ett", "två", "tre", "fyra", "fem", "sex" }
 awful.layout.layouts = {
     awful.layout.suit.tile,
     --awful.layout.suit.tile.left,
-    awful.layout.suit.tile.bottom,
+    -- awful.layout.suit.tile.bottom,
     awful.layout.suit.floating,
     --awful.layout.suit.tile.top,
     --awful.layout.suit.fair,
     --awful.layout.suit.fair.horizontal,
     --awful.layout.suit.spiral,
-    awful.layout.suit.spiral.dwindle,
+    -- awful.layout.suit.spiral.dwindle,
     --awful.layout.suit.max,
     --awful.layout.suit.max.fullscreen,
     --awful.layout.suit.magnifier,
@@ -118,7 +118,7 @@ awful.layout.layouts = {
     --awful.layout.suit.corner.se,
     --lain.layout.cascade,
     --lain.layout.cascade.tile,
-    lain.layout.centerwork,
+    -- lain.layout.centerwork,
     --lain.layout.centerwork.horizontal,
     --lain.layout.termfair,
     --lain.layout.termfair.center,
