@@ -3,7 +3,7 @@
 # Display ..
 song_list_format = " $5%t $R$6%a "
 song_columns_list_format = "(3)[]{}(85)[blue]{t} (1)[magenta]{a}"
-song_status_format = "$5%t $1on $2%b $1by $5%a$1"
+song_status_format = "$5%t $1on $2%b $1by $6%a$1"
 playlist_display_mode = "classic" (classic/columns)
 
 # Now Playing ..
@@ -19,7 +19,7 @@ message_delay_time= "1"
 
 # Progress Bar ..
 progressbar_look = "━━─"
-progressbar_boldness = "yes"
+# progressbar_boldness = "yes"
 progressbar_color = "white"
 progressbar_elapsed_color = "magenta"
 
@@ -31,7 +31,7 @@ state_line_color = "white"
 state_flags_color = "white"
 main_window_color = "white" 
 header_window_color = "white"
-main_window_highlight_color = "blue"
+# main_window_highlight_color = "blue"
 
 # Misc ..   
 display_bitrate = "no"
